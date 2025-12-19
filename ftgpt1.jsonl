@@ -1,0 +1,3767 @@
+Event 2:
+
+Unnamed: 0: 15936
+Action: statechange
+org:resource: User_46
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_230946698
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:22:15.587000+00:00
+case:concept:name: Offer_2026305556
+case:MonthlyCost: 300.0
+case:Selected: False
+case:ApplicationID: Application_1703731762
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 101
+case:Accepted:
+OfferID: Offer_2026305556
+Event 3:
+
+Unnamed: 0: 12561
+Action: statechange
+org:resource: User_42
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_801146511
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:01:08.121000+00:00
+case:concept:name: Offer_2026305556
+case:MonthlyCost: 300.0
+case:Selected: False
+case:ApplicationID: Application_1703731762
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 101
+case:Accepted:
+OfferID: Offer_2026305556
+Event 4:
+
+Unnamed: 0: 327
+Action: statechange
+org:resource: User_63
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: OfferState_2036456641
+lifecycle:transition: complete
+time:timestamp: 2016-07-22 07:40:20.673000+00:00
+case:concept:name: Offer_2026305556
+case:MonthlyCost: 300.0
+case:Selected: False
+case:ApplicationID: Application_1703731762
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 101
+case:Accepted: False
+OfferID: Offer_2026305556
+
+
+Event 2:
+
+Unnamed: 0: 4547
+Action: statechange
+org:resource: User_17
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_2075865286
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:22:58.793000+00:00
+case:concept:name: Offer_1944055847
+case:MonthlyCost: 205.49
+case:Selected: True
+case:ApplicationID: Application_1218775385
+case:FirstWithdrawalAmount: 20000.0
+case:CreditScore: 713
+case:OfferedAmount: 20000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1944055847
+Event 3:
+
+Unnamed: 0: 12147
+Action: statechange
+org:resource: User_17
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_72931051
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:23:39.101000+00:00
+case:concept:name: Offer_1944055847
+case:MonthlyCost: 205.49
+case:Selected: True
+case:ApplicationID: Application_1218775385
+case:FirstWithdrawalAmount: 20000.0
+case:CreditScore: 713
+case:OfferedAmount: 20000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1944055847
+Event 4:
+
+Unnamed: 0: 20487
+Action: statechange
+org:resource: User_116
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_167110
+lifecycle:transition: complete
+time:timestamp: 2016-07-22 06:36:11.841000+00:00
+case:concept:name: Offer_1944055847
+case:MonthlyCost: 205.49
+case:Selected: True
+case:ApplicationID: Application_1218775385
+case:FirstWithdrawalAmount: 20000.0
+case:CreditScore: 713
+case:OfferedAmount: 20000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1944055847
+Event 5:
+
+Unnamed: 0: 1585
+Action: statechange
+org:resource: User_116
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_157076407
+lifecycle:transition: complete
+time:timestamp: 2016-07-22 12:24:55.568000+00:00
+case:concept:name: Offer_1944055847
+case:MonthlyCost: 205.49
+case:Selected: True
+case:ApplicationID: Application_1218775385
+case:FirstWithdrawalAmount: 20000.0
+case:CreditScore: 713
+case:OfferedAmount: 20000.0
+case:NumberOfTerms: 120
+case:Accepted: True
+OfferID: Offer_1944055847
+
+
+Event 2:
+
+Unnamed: 0: 10708
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_343014819
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:25:43.648000+00:00
+case:concept:name: Offer_743621544
+case:MonthlyCost: 130.94
+case:Selected: True
+case:ApplicationID: Application_1224457292
+case:FirstWithdrawalAmount: 12300.0
+case:CreditScore: 842
+case:OfferedAmount: 12300.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_743621544
+Event 3:
+
+Unnamed: 0: 3728
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1530562184
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:26:22.514000+00:00
+case:concept:name: Offer_743621544
+case:MonthlyCost: 130.94
+case:Selected: True
+case:ApplicationID: Application_1224457292
+case:FirstWithdrawalAmount: 12300.0
+case:CreditScore: 842
+case:OfferedAmount: 12300.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_743621544
+Event 4:
+
+Unnamed: 0: 16308
+Action: statechange
+org:resource: User_49
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_1908973040
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 07:43:53.537000+00:00
+case:concept:name: Offer_743621544
+case:MonthlyCost: 130.94
+case:Selected: True
+case:ApplicationID: Application_1224457292
+case:FirstWithdrawalAmount: 12300.0
+case:CreditScore: 842
+case:OfferedAmount: 12300.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_743621544
+Event 5:
+
+Unnamed: 0: 8585
+Action: statechange
+org:resource: User_113
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_918329482
+lifecycle:transition: complete
+time:timestamp: 2016-07-27 08:43:28.606000+00:00
+case:concept:name: Offer_743621544
+case:MonthlyCost: 130.94
+case:Selected: True
+case:ApplicationID: Application_1224457292
+case:FirstWithdrawalAmount: 12300.0
+case:CreditScore: 842
+case:OfferedAmount: 12300.0
+case:NumberOfTerms: 120
+case:Accepted: true
+OfferID: Offer_743621544
+
+
+Event 2:
+
+Unnamed: 0: 7128
+Action: statechange
+org:resource: User_43
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1540526734
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:27:02.385000+00:00
+case:concept:name: Offer_554022449
+case:MonthlyCost: 254.56
+case:Selected: False
+case:ApplicationID: Application_1808303712
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_554022449
+Event 3:
+
+Unnamed: 0: 16195
+Action: statechange
+org:resource: User_43
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1792698112
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:27:35.978000+00:00
+case:concept:name: Offer_554022449
+case:MonthlyCost: 254.56
+case:Selected: False
+case:ApplicationID: Application_1808303712
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_554022449
+Event 4:
+
+Unnamed: 0: 15351
+Action: statechange
+org:resource: User_19
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_1077522858
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 04:50:43.256000+00:00
+case:concept:name: Offer_554022449
+case:MonthlyCost: 254.56
+case:Selected: False
+case:ApplicationID: Application_1808303712
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_554022449
+Event 5:
+
+Unnamed: 0: 12468
+Action: statechange
+org:resource: User_87
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_326470918
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 09:1000+00:00
+case:concept:name: Offer_554022449
+case:MonthlyCost: 254.56
+case:Selected: False
+case:ApplicationID: Application_1808303712
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 120
+case:Accepted: true
+OfferID: Offer_554022449
+
+
+Event 2:
+
+Unnamed: 0: 4938
+Action: statechange
+org:resource: User_85
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1793817142
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:27:02.647000+00:00
+case:concept:name: Offer_491676101
+case:MonthlyCost: 288.16
+case:Selected: True
+case:ApplicationID: Application_426309193
+case:FirstWithdrawalAmount: 10931.55
+case:CreditScore: 998
+case:OfferedAmount: 28300.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_491676101
+Event 3:
+
+Unnamed: 0: 779
+Action: statechange
+org:resource: User_85
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_890392677
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:27:38.033000+00:00
+case:concept:name: Offer_491676101
+case:MonthlyCost: 288.16
+case:Selected: True
+case:ApplicationID: Application_426309193
+case:FirstWithdrawalAmount: 10931.55
+case:CreditScore: 998
+case:OfferedAmount: 28300.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_491676101
+Event 4:
+
+Unnamed: 0: 5913
+Action: statechange
+org:resource: User_91
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_567631202
+lifecycle:transition: complete
+time:timestamp: 2016-07-20 07:37:57.083000+00:00
+case:concept:name: Offer_491676101
+case:MonthlyCost: 288.16
+case:Selected: True
+case:ApplicationID: Application_426309193
+case:FirstWithdrawalAmount: 10931.55
+case:CreditScore: 998
+case:OfferedAmount: 28300.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_491676101
+Event 5:
+
+Unnamed: 0: 16089
+Action: statechange
+org:resource: User_115
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_1445143003
+lifecycle:transition: complete
+time:timestamp: 2016-07-27 05:57:17.695000+00:00
+case:concept:name: Offer_491676101
+case:MonthlyCost: 288.16
+case:Selected: True
+case:ApplicationID: Application_426309193
+case:FirstWithdrawalAmount: 10931.55
+case:CreditScore: 998
+case:OfferedAmount: 28300.0
+case:NumberOfTerms: 120
+case:Accepted: true
+OfferID: Offer_491676101
+
+
+Event 2:
+
+Unnamed: 0: 3338
+Action: statechange
+org:resource: User_28
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_331734930
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:29:52.686000+00:00
+case:concept:name: Offer_1186971623
+case:MonthlyCost: 141.78
+case:Selected: True
+case:ApplicationID: Application_1037363488
+case:FirstWithdrawalAmount: 6000.0
+case:CreditScore: 892
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 48
+case:Accepted:
+OfferID: Offer_1186971623
+Event 3:
+
+Unnamed: 0: 15378
+Action: statechange
+org:resource: User_28
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_179434255
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:30:06.898000+00:00
+case:concept:name: Offer_1186971623
+case:MonthlyCost: 141.78
+case:Selected: True
+case:ApplicationID: Application_1037363488
+case:FirstWithdrawalAmount: 6000.0
+case:CreditScore: 892
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 48
+case:Accepted:
+OfferID: Offer_1186971623
+Event 4:
+
+Unnamed: 0: 9400
+Action: statechange
+org:resource: User_99
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_1452397508
+lifecycle:transition: complete
+time:timestamp: 2016-07-22 06:50:33.214000+00:00
+case:concept:name: Offer_1186971623
+case:MonthlyCost: 141.78
+case:Selected: True
+case:ApplicationID: Application_1037363488
+case:FirstWithdrawalAmount: 6000.0
+case:CreditScore: 892
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 48
+case:Accepted:
+OfferID: Offer_1186971623
+Event 5:
+
+Unnamed: 0: 8437
+Action: statechange
+org:resource: User_117
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_1095893472
+lifecycle:transition: complete
+time:timestamp: 2016-07-27 06:29:57.871000+00:00
+case:concept:name: Offer_1186971623
+case:MonthlyCost: 141.78
+case:Selected: True
+case:ApplicationID: Application_1037363488
+case:FirstWithdrawalAmount: 6000.0
+case:CreditScore: 892
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 48
+case:Accepted: true
+OfferID: Offer_1186971623
+
+
+Event 2:
+
+Unnamed: 0: 2269
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_369498002
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:33:58.539000+00:00
+case:concept:name: Offer_129539457
+case:MonthlyCost: 273.28
+case:Selected: False
+case:ApplicationID: Application_1483659784
+case:FirstWithdrawalAmount: 25000.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 110
+case:Accepted:
+OfferID: Offer_129539457
+Event 3:
+
+Unnamed: 0: 15551
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1122163990
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:34:17.055000+00:00
+case:concept:name: Offer_129539457
+case:MonthlyCost: 273.28
+case:Selected: False
+case:ApplicationID: Application_1483659784
+case:FirstWithdrawalAmount: 25000.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 110
+case:Accepted:
+OfferID: Offer_129539457
+Event 4:
+
+Unnamed: 0: 154
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1548620035
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:34:31.522000+00:00
+case:concept:name: Offer_530672616
+case:MonthlyCost: 198.94
+case:Selected: True
+case:ApplicationID: Application_1483659784
+case:FirstWithdrawalAmount: 25000.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 130
+case:Accepted:
+OfferID: Offer_530672616
+Event 5:
+
+Unnamed: 0: 107
+Action: statechange
+org:resource: User_49
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: OfferState_1307763670
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:34:55.972000+00:00
+case:concept:name: Offer_530672616
+case:MonthlyCost: 198.94
+case:Selected: True
+case:ApplicationID: Application_1483659784
+case:FirstWithdrawalAmount: 25000.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 130
+case:Accepted:
+OfferID: Offer_530672616
+Event 6:
+
+Unnamed: 0: 14177
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_770089795
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:36:02.536000+00:00
+case:concept:name: Offer_1970676584
+case:MonthlyCost: 162.21
+case:Selected: True
+case:ApplicationID: Application_1483659784
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 155
+case:Accepted:
+OfferID: Offer_1970676584
+Event 7:
+
+Unnamed: 0: 1415
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_612515858
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:36:27.852000+00:00
+case:concept:name: Offer_1970676584
+case:MonthlyCost: 162.21
+case:Selected: True
+case:ApplicationID: Application_1483659784
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 155
+case:Accepted:
+OfferID: Offer_1970676584
+Event 8:
+
+Unnamed: 0: 17283
+Action: statechange
+org:resource: User_66
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_1019075099
+lifecycle:transition: complete
+time:timestamp: 2016-07-20 13:10:17.455000+00:00
+case:concept:name: Offer_1970676584
+case:MonthlyCost: 162.21
+case:Selected: True
+case:ApplicationID: Application_1483659784
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 155
+case:Accepted: true
+OfferID: Offer_1970676584
+
+
+Event 2:
+
+Unnamed: 0: 7806
+Action: statechange
+org:resource: User_35
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_163341253
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:39:41.437000+00:00
+case:concept:name: Offer_1385414832
+case:MonthlyCost: 301.58
+case:Selected: False
+case:ApplicationID: Application_930144104
+case:FirstWithdrawalAmount: 28000.0
+case:CreditScore: 0
+case:OfferedAmount: 28000.0
+case:NumberOfTerms: 112
+case:Accepted:
+OfferID: Offer_1385414832
+Event 3:
+
+Unnamed: 0: 16545
+Action: statechange
+org:resource: User_35
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1335986545
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:39:57.080000+00:00
+case:concept:name: Offer_1385414832
+case:MonthlyCost: 301.58
+case:Selected: False
+case:ApplicationID: Application_930144104
+case:FirstWithdrawalAmount: 28000.0
+case:CreditScore: 0
+case:OfferedAmount: 28000.0
+case:NumberOfTerms: 112
+case:Accepted:
+OfferID: Offer_1385414832
+Event 4:
+
+Unnamed: 0: 4729
+Action: statechange
+org:resource: User_4
+concept:name: O_Approved
+EventOrigin: Offer
+EventID: OfferState_728750461
+lifecycle:transition: complete
+time:timestamp: 2016-07-22 10:25:21.556000+00:00
+case:concept:name: Offer_1385414832
+case:MonthlyCost: 301.58
+case:Selected: False
+case:ApplicationID: Application_930144104
+case:FirstWithdrawalAmount: 28000.0
+case:CreditScore: 0
+case:OfferedAmount: 28000.0
+case:NumberOfTerms: 112
+case:Accepted: true
+OfferID: Offer_1385414832
+
+
+Event 2:
+
+Unnamed: 0: 4522
+Action: statechange
+org:resource: User_28
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_2011737421
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:40:06.374000+00:00
+case:concept:name: Offer_1574940307
+case:MonthlyCost: 60.0
+case:Selected: True
+case:ApplicationID: Application_1030731936
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 138
+case:Accepted:
+OfferID: Offer_1574940307
+Event 3:
+
+Unnamed: 0: 15859
+Action: statechange
+org:resource: User_28
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1275135397
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:40:34.440000+00:00
+case:concept:name: Offer_1574940307
+case:MonthlyCost: 60.0
+case:Selected: True
+case:ApplicationID: Application_1030731936
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 138
+case:Accepted:
+OfferID: Offer_1574940307
+Event 4:
+
+Unnamed: 0: 17255
+Action: statechange
+org:resource: User_116
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_964593972
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 06:56:47.776000+00:00
+case:concept:name: Offer_1574940307
+case:MonthlyCost: 60.0
+case:Selected: True
+case:ApplicationID: Application_1030731936
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 138
+case:Accepted:
+OfferID: Offer_1574940307
+Event 5:
+
+Unnamed: 0: 11721
+Action: statechange
+org:resource: User_127
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_211029816
+lifecycle:transition: complete
+time:timestamp: 2016-07-21 06:30:39.771000+00:00
+case:concept:name: Offer_1574940307
+case:MonthlyCost: 60.0
+case:Selected: True
+case:ApplicationID: Application_1030731936
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 138
+case:Accepted: true
+OfferID: Offer_1574940307
+
+
+Event 2:
+
+Unnamed: 0: 12217
+Action: statechange
+org:resource: User_3
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_965693349
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:43:08.774000+00:00
+case:concept:name: Offer_1716775983
+case:MonthlyCost: 120.0
+case:Selected: False
+case:ApplicationID: Application_926870086
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 12000.0
+case:NumberOfTerms: 134
+case:Accepted:
+OfferID: Offer_1716775983
+Event 3:
+
+Unnamed: 0: 17872
+Action: statechange
+org:resource: User_3
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1516126363
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:43:42.344000+00:00
+case:concept:name: Offer_1716775983
+case:MonthlyCost: 120.0
+case:Selected: False
+case:ApplicationID: Application_926870086
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 12000.0
+case:NumberOfTerms: 134
+case:Accepted:
+OfferID: Offer_1716775983
+Event 4:
+
+Unnamed: 0: 17019
+Action: statechange
+org:resource: User_54
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_2132807267
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 10:59:00.855000+00:00
+case:concept:name: Offer_1716775983
+case:MonthlyCost: 120.0
+case:Selected: False
+case:ApplicationID: Application_926870086
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 12000.0
+case:NumberOfTerms: 134
+case:Accepted:
+OfferID: Offer_1716775983
+Event 5:
+
+Unnamed: 0: 18414
+Action: statechange
+org:resource: User_113
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: OfferState_588601909
+lifecycle:transition: complete
+time:timestamp: 2016-07-21 06:00:55.828000+00:00
+case:concept:name: Offer_1716775983
+case:MonthlyCost: 120.0
+case:Selected: False
+case:ApplicationID: Application_926870086
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 12000.0
+case:NumberOfTerms: 134
+case:Accepted: false
+OfferID: Offer_1716775983
+
+
+Event 2:
+
+Unnamed: 0: 16432
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_2145339207
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:43:14.893000+00:00
+case:concept:name: Offer_962495729
+case:MonthlyCost: 199.14
+case:Selected: True
+case:ApplicationID: Application_1666960622
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 27
+case:Accepted:
+OfferID: Offer_962495729
+Event 3:
+
+Unnamed: 0: 7671
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1052574119
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:43:33.341000+00:00
+case:concept:name: Offer_962495729
+case:MonthlyCost: 199.14
+case:Selected: True
+case:ApplicationID: Application_1666960622
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 27
+case:Accepted:
+OfferID: Offer_962495729
+Event 4:
+
+Unnamed: 0: 1473
+Action: statechange
+org:resource: User_37
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_1397795976
+lifecycle:transition: complete
+time:timestamp: 2016-07-21 05:59:30.028000+00:00
+case:concept:name: Offer_962495729
+case:MonthlyCost: 199.14
+case:Selected: True
+case:ApplicationID: Application_1666960622
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 27
+case:Accepted:
+OfferID: Offer_962495729
+Event 5:
+
+Unnamed: 0: 149
+Action: statechange
+org:resource: User_112
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_1180733421
+lifecycle:transition: complete
+time:timestamp: 2016-07-21 11:20:25.744000+00:00
+case:concept:name: Offer_962495729
+case:MonthlyCost: 199.14
+case:Selected: True
+case:ApplicationID: Application_1666960622
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 27
+case:Accepted:
+OfferID: Offer_962495729
+
+
+Event 2:
+
+Unnamed: 0: 19630
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1596310989
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:51:36.317000+00:00
+case:concept:name: Offer_276142195
+case:MonthlyCost: 200.0
+case:Selected: True
+case:ApplicationID: Application_61929194
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 931
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 27
+case:Accepted:
+OfferID: Offer_276142195
+Event 3:
+
+Unnamed: 0: 7333
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1224875222
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:52:14.108000+00:00
+case:concept:name: Offer_276142195
+case:MonthlyCost: 200.0
+case:Selected: True
+case:ApplicationID: Application_61929194
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 931
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 27
+case:Accepted:
+OfferID: Offer_276142195
+Event 4:
+
+Unnamed: 0: 13351
+Action: statechange
+org:resource: User_87
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_471981791
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 06:39:29.934000+00:00
+case:concept:name: Offer_276142195
+case:MonthlyCost: 200.0
+case:Selected: True
+case:ApplicationID: Application_61929194
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 931
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 27
+case:Accepted:
+OfferID: Offer_276142195
+Event 5:
+
+Unnamed: 0: 12289
+Action: statechange
+org:resource: User_87
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: OfferState_832536924
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 06:39:30.053000+00:00
+case:concept:name: Offer_530672616
+case:MonthlyCost: 198.94
+case:Selected: True
+case:ApplicationID: Application_61929194
+case:FirstWithdrawalAmount: 25000.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 130
+case:Accepted:
+OfferID: Offer_530672616
+Event 6:
+
+Unnamed: 0: 1439
+Action: statechange
+org:resource: User_87
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: OfferState_1333731298
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 06:39:30.076000+00:00
+case:concept:name: Offer_530672616
+case:MonthlyCost: 198.94
+case:Selected: True
+case:ApplicationID: Application_61929194
+case:FirstWithdrawalAmount: 25000.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 130
+case:Accepted:
+OfferID: Offer_530672616
+
+
+Event 2:
+
+Unnamed: 0: 16123
+Action: statechange
+org:resource: User_3
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_821870618
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:54:11.121000+00:00
+case:concept:name: Offer_1678922866
+case:MonthlyCost: 478.57
+case:Selected: False
+case:ApplicationID: Application_1101006464
+case:FirstWithdrawalAmount: 22317.0
+case:CreditScore: 0
+case:OfferedAmount: 47000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1678922866
+Event 3:
+
+Unnamed: 0: 14913
+Action: statechange
+org:resource: User_3
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1038047531
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:55:45.055000+00:00
+case:concept:name: Offer_1678922866
+case:MonthlyCost: 478.57
+case:Selected: False
+case:ApplicationID: Application_1101006464
+case:FirstWithdrawalAmount: 22317.0
+case:CreditScore: 0
+case:OfferedAmount: 47000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1678922866
+Event 4:
+
+Unnamed: 0: 13832
+Action: statechange
+org:resource: User_29
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_1883155857
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:10:52.605000+00:00
+case:concept:name: Offer_1883155857
+case:MonthlyCost: 578.0
+case:Selected: False
+case:ApplicationID: Application_1101006464
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 47000.0
+case:NumberOfTerms: 85
+case:Accepted:
+OfferID: Offer_1883155857
+
+
+Event 2:
+
+Unnamed: 0: 12025
+Action: statechange
+org:resource: User_60
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1979633563
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 13:55:01.789000+00:00
+case:concept:name: Offer_453639244
+case:MonthlyCost: 455.0
+case:Selected: True
+case:ApplicationID: Application_663500615
+case:FirstWithdrawalAmount: 2000.0
+case:CreditScore: 937
+case:OfferedAmount: 45000.0
+case:NumberOfTerms: 124
+case:Accepted:
+OfferID: Offer_453639244
+Event 3:
+
+Unnamed: 0: 15249
+Action: statechange
+org:resource: User_60
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_804782503
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:11:27.828000+00:00
+case:concept:name: Offer_453639244
+case:MonthlyCost: 455.0
+case:Selected: True
+case:ApplicationID: Application_663500615
+case:FirstWithdrawalAmount: 20000.0
+case:CreditScore: 937
+case:OfferedAmount: 45000.0
+case:NumberOfTerms: 124
+case:Accepted:
+OfferID: Offer_453639244
+Event 4:
+
+Unnamed: 0: 7724
+Action: statechange
+org:resource: User_117
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_1719499272
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 08:59:36.102000+00:00
+case:concept:name: Offer_453639244
+case:MonthlyCost: 455.0
+case:Selected: True
+case:ApplicationID: Application_663500615
+case:FirstWithdrawalAmount: 20000.0
+case:CreditScore: 937
+case:OfferedAmount: 45000.0
+case:NumberOfTerms: 124
+case:Accepted:
+OfferID: Offer_453639244
+
+
+Event 2:
+
+Unnamed: 0: 13679
+Action: statechange
+org:resource: User_43
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_766377822
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:02:00.119000+00:00
+case:concept:name: Offer_643340845
+case:MonthlyCost: 299.65
+case:Selected: True
+case:ApplicationID: Application_1903540859
+case:FirstWithdrawalAmount: 27000.0
+case:CreditScore: 974
+case:OfferedAmount: 27000.0
+case:NumberOfTerms: 108
+case:Accepted:
+OfferID: Offer_643340845
+Event 3:
+
+Unnamed: 0: 14242
+Action: statechange
+org:resource: User_43
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1653466211
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:02:24.967000+00:00
+case:concept:name: Offer_643340845
+case:MonthlyCost: 299.65
+case:Selected: True
+case:ApplicationID: Application_1903540859
+case:FirstWithdrawalAmount: 27000.0
+case:CreditScore: 974
+case:OfferedAmount: 27000.0
+case:NumberOfTerms: 108
+case:Accepted:
+OfferID: Offer_643340845
+Event 4:
+
+Unnamed: 0: 7060
+Action: statechange
+org:resource: User_95
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_1819165255
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 09:07:42.688000+00:00
+case:concept:name: Offer_643340845
+case:MonthlyCost: 299.65
+case:Selected: True
+case:ApplicationID: Application_1903540859
+case:FirstWithdrawalAmount: 27000.0
+case:CreditScore: 974
+case:OfferedAmount: 27000.0
+case:NumberOfTerms: 108
+case:Accepted:
+OfferID: Offer_643340845
+Event 5:
+
+Unnamed: 0: 4196
+Action: statechange
+org:resource: User_116
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_2114481399
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 12:07:14.209000+00:00
+case:concept:name: Offer_643340845
+case:MonthlyCost: 299.65
+case:Selected: True
+case:ApplicationID: Application_1903540859
+case:FirstWithdrawalAmount: 27000.0
+case:CreditScore: 974
+case:OfferedAmount: 27000.0
+case:NumberOfTerms: 108
+case:Accepted:
+OfferID: Offer_643340845
+
+
+Event 2:
+
+Unnamed: 0: 13748
+Action: statechange
+org:resource: User_3
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1654738224
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:05:11.534000+00:00
+case:concept:name: Offer_1165036030
+case:MonthlyCost: 336.32
+case:Selected: False
+case:ApplicationID: Application_1791368518
+case:FirstWithdrawalAmount: 2927.0
+case:CreditScore: 0
+case:OfferedAmount: 26000.0
+case:NumberOfTerms: 90
+case:Accepted:
+OfferID: Offer_1165036030
+Event 3:
+
+Unnamed: 0: 17095
+Action: statechange
+org:resource: User_3
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_819626416
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:05:33.085000+00:00
+case:concept:name: Offer_1165036030
+case:MonthlyCost: 336.32
+case:Selected: False
+case:ApplicationID: Application_1791368518
+case:FirstWithdrawalAmount: 2927.0
+case:CreditScore: 0
+case:OfferedAmount: 26000.0
+case:NumberOfTerms: 90
+case:Accepted:
+OfferID: Offer_1165036030
+Event 4:
+
+Unnamed: 0: 7406
+Action: statechange
+org:resource: User_65
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_888954997
+lifecycle:transition: complete
+time:timestamp: 2016-07-21 08:02:33.839000+00:00
+case:concept:name: Offer_1165036030
+case:MonthlyCost: 336.32
+case:Selected: False
+case:ApplicationID: Application_1791368518
+case:FirstWithdrawalAmount: 2927.0
+case:CreditScore: 0
+case:OfferedAmount: 26000.0
+case:NumberOfTerms: 90
+case:Accepted: true
+OfferID: Offer_1165036030
+
+
+Event 2:
+
+Unnamed: 0: 3191
+Action: statechange
+org:resource: User_45
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_2041248199
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:05:18.924000+00:00
+case:concept:name: Offer_2121718976
+case:MonthlyCost: 100.0
+case:Selected: False
+case:ApplicationID: Application_638813041
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 58
+case:Accepted:
+OfferID: Offer_2121718976
+Event 3:
+
+Unnamed: 0: 9502
+Action: statechange
+org:resource: User_45
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_506795211
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:05:34.192000+00:00
+case:concept:name: Offer_2121718976
+case:MonthlyCost: 100.0
+case:Selected: False
+case:ApplicationID: Application_638813041
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 58
+case:Accepted:
+OfferID: Offer_2121718976
+Event 4:
+
+Unnamed: 0: 9619
+Action: statechange
+org:resource: User_23
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_1299311934
+lifecycle:transition: complete
+time:timestamp: 2016-08-02 04:16:33.445000+00:00
+case:concept:name: Offer_2121718976
+case:MonthlyCost: 100.0
+case:Selected: False
+case:ApplicationID: Application_638813041
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 58
+case:Accepted:
+OfferID: Offer_2121718976
+Event 5:
+
+Unnamed: 0: 9847
+Action: statechange
+org:resource: User_116
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_96744005
+lifecycle:transition: complete
+time:timestamp: 2016-08-Aware-24 06:38:12.235000+00:00
+case:concept:name: Offer_2121718976
+case:MonthlyCost: 100.0
+case:Selected: False
+case:ApplicationID: Application_638813041
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 58
+case:Accepted: true
+OfferID: Offer_2121718976
+
+
+Event 2:
+
+Unnamed: 0: 969
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_845856844
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:05:35.557000+00:00
+case:concept:name: Offer_179567422
+case:MonthlyCost: 125.0
+case:Selected: True
+case:ApplicationID: Application_1231928487
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 936
+case:OfferedAmount: 7500.0
+case:NumberOfTerms: 72
+case:Accepted:
+OfferID: Offer_179567422
+Event 3:
+
+Unnamed: 0: 9841
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1810827186
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:05:54.222000+00:00
+case:concept:name: Offer_179567422
+case:MonthlyCost: 125.0
+case:Selected: True
+case:ApplicationID: Application_1231928487
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 936
+case:OfferedAmount: 7500.0
+case:NumberOfTerms: 72
+case:Accepted:
+OfferID: Offer_179567422
+Event 4:
+
+Unnamed: 0: 11535
+Action: statechange
+org:resource: User_100
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_1536024322
+lifecycle:transition: complete
+time:timestamp: 2016-07-25 09:21:05.572000+00:00
+case:concept:name: Offer_179567422
+case:MonthlyCost: 125.0
+case:Selected: True
+case:ApplicationID: Application_1231928487
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 936
+case:OfferedAmount: 7500.0
+case:NumberOfTerms: 72
+case:Accepted:
+OfferID: Offer_179567422
+Event 5:
+
+Unnamed: 0: 1701
+Action: statechange
+org:resource: User_29
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_750184905
+lifecycle:transition: complete
+time:timestamp: 2016-07-25 14:37:19.481000+00:00
+case:concept:name: Offer_750184905
+case:MonthlyCost: 125.0
+case:Selected: True
+case:ApplicationID: Application_1231928487
+case:FirstWithdrawalAmount: 12500.0
+case:CreditScore: 0
+case:OfferedAmount: 7500.0
+case:NumberOfTerms: 72
+case:Accepted: false
+OfferID: Offer_750184905
+
+
+Event 2:
+
+Unnamed: 0: 16890
+Action: statechange
+org:resource: User_10
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_827062152
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:18:24. peel-00.000000+00:00
+case:concept:name: Offer_2024124288
+case:MonthlyCost: 200.12
+case:Selected: False
+case:ApplicationID: Application_983336218
+case:FirstWithdrawalAmount: 6693.0
+case:CreditScore: 0
+case:OfferedAmount: 8000.0
+case:NumberOfTerms: 45
+case:Accepted: False
+OfferID: Offer_2024124288
+Event 3:
+
+Unnamed: 0: 5375
+Action: statechange
+org:resource: User_27
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1731444626
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 09:48:29.356000+00:00
+case:concept:name: Offer_2024124288
+case:MonthlyCost: 200.12
+case:Selected: False
+case:ApplicationID: Application_983336218
+case:FirstWithdrawalAmount: 6693.0
+case:CreditScore: 0
+case:OfferedAmount: 8000.0
+case:NumberOfTerms: 45
+case:Accepted: False
+OfferID: Offer_2024124288
+Event 4:
+
+Unnamed: 0: 10586
+Action: statechange
+org:resource: User_116
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_328485380
+lifecycle:transition: complete
+time:timestamp: 2016-07-20 12:16:24.172000+00:00
+case:concept:name: Offer_2024124288
+case:MonthlyCost: 200.12
+case:Selected: False
+case:ApplicationID: Application_983336218
+case:FirstWithdrawalAmount: 6693.0
+case:CreditScore: 0
+case:OfferedAmount: 8000.0
+case:NumberOfTerms: 45
+case:Accepted: False
+OfferID: Offer_2024124288
+Event 5:
+
+Unnamed: 0: 14246
+Action: statechange
+org:resource: User_116
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: OfferState_806046152
+lifecycle:transition: complete
+time:timestamp: 2016-07-20 12:16:24.195000+00:00
+case:concept:name: Offer_453639244
+case:MonthlyCost: 455.0
+case:Selected: True
+case:ApplicationID: Application_983336218
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 1004
+case:OfferedAmount: 45000.0
+case:NumberOfTerms: 121
+case:Accepted: false
+OfferID: Offer_453639244
+
+
+Event 2:
+
+Unnamed: 0: 8627
+Action: statechange
+org:resource: User_3
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_811529893
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:24:31.909000+00:00
+case:concept:name: Offer_1179359321
+case:MonthlyCost: 175.0
+case:Selected: True
+case:ApplicationID: Application_930378949
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 851
+case:OfferedAmount: 17500.0
+case:NumberOfTerms: 127
+case:Accepted:
+OfferID: Offer_1179359321
+Event 3:
+
+Unnamed: 0: 21646
+Action: statechange
+org:resource: User_3
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1197332664
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:24:48.416000+00:00
+case:concept:name: Offer_1179359321
+case:MonthlyCost: 175.0
+case:Selected: True
+case:ApplicationID: Application_930378949
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 851
+case:OfferedAmount: 17500.0
+case:NumberOfTerms: 127
+case:Accepted:
+OfferID: Offer_1179359321
+Event 4:
+
+Unnamed: 0: 10346
+Action: statechange
+org:resource: User_115
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_2145825843
+lifecycle:transition: complete
+time:timestamp: 2016-07-21 07:48:50.247000+00:00
+case:concept:name: Offer_1179359321
+case:MonthlyCost: 175.0
+case:Selected: True
+case:ApplicationID: Application_930378949
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 851
+case:OfferedAmount: 17500.0
+case:NumberOfTerms: 127
+case:Accepted:
+OfferID: Offer_1179359321
+Event 5:
+
+Unnamed: 0: 17348
+Action: statechange
+org:resource: User_72
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: OfferState_2068513453
+lifecycle:transition: complete
+time:timestamp: 2016-07-22 05:22:21.807000+00:00
+case:concept:name: Offer_1179359321
+case:MonthlyCost: 175.0
+case:Selected: True
+case:ApplicationID: Application_930378949
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 851
+case:OfferedAmount: 17500.0
+case:NumberOfTerms: 127
+case:Accepted: true
+OfferID: Offer_1179359321
+
+
+
+Event 2:
+
+Unnamed: 0: 9210
+Action: statechange
+org:resource: User_35
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1082098084
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:28:28.534000+00:00
+case:concept:name: Offer_964392502
+case:MonthlyCost: 905.33
+case:Selected: False
+case:ApplicationID: Application_1665334644
+case:FirstWithdrawalAmount: 40000.0
+case:CreditScore: 0
+case:OfferedAmount: 40000.0
+case:NumberOfTerms: 48
+case:Accepted:
+OfferID: Offer_964392502
+Event 3:
+
+Unnamed: 0: 7787
+Action: statechange
+org:resource: User_35
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_837129323
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:29:12.889000+00:00
+case:concept:name: Offer_964392502
+case:MonthlyCost: 905.33
+case:Selected: False
+case:ApplicationID: Application_1665334644
+case:FirstWithdrawalAmount: 40000.0
+case:CreditScore: 0
+case:OfferedAmount: 40000.0
+case:NumberOfTerms: 48
+case:Accepted:
+OfferID: Offer_964392502
+Event 4:
+
+Unnamed: 0: 14859
+Action: statechange
+org:resource: User_108
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_716777017
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 22:08:31.229000+00:00
+case:concept:name: Offer_716777017
+case:MonthlyCost: 905.33
+case:Selected: False
+case:ApplicationID: Application_1665334644
+case:FirstWithdrawalAmount: 40000.0
+case:CreditScore: 0
+case:OfferedAmount: 40000.0
+case:NumberOfTerms: 48
+case:Accepted:
+OfferID: Offer_716777017
+Event 5:
+
+Unnamed: 0: 10659
+Action: statechange
+org:resource: User_108
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_839246533
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 22:08:31.377000+00:00
+case:concept:name: Offer_839246533
+case:MonthlyCost: 250.0
+case:Selected: False
+case:ApplicationID: Application_1665334644
+case:FirstWithdrawalAmount: 15500.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 121
+case:Accepted:
+OfferID: Offer_839246533
+Event 6:
+
+Unnamed: 0: 12063
+Action: statechange
+org:resource: User_109
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_1495921181
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 22:13:10.419000+00:00
+case:concept:name: Offer_1495921181
+case:MonthlyCost: 365.0
+case:Selected: False
+case:ApplicationID: Application_1665334644
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 18450.0
+case:NumberOfTerms: 55
+case:Accepted: false
+OfferID: Offer_1495921181
+
+
+Event 2:
+
+Unnamed: 0: 1298
+Action: statechange
+org:resource: User_60
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_357800266
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:32:23.344000+00:00
+case:concept:name: Offer_1895279268
+case:MonthlyCost: 154.11
+case:Selected: True
+case:ApplicationID: Application_2068032817
+case:FirstWithdrawalAmount: 15000.0
+case:CreditScore: 1004
+case:OfferedAmount: 15000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1895279268
+Event 3:
+
+Unnamed: 0: 19696
+Action: statechange
+org:resource: User_60
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_315570818
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:32:42.792000+00:00
+case:concept:name: Offer_1895279268
+case:MonthlyCost: 154.11
+case:Selected: True
+case:ApplicationID: Application_2068032817
+case:FirstWithdrawalAmount: 15000.0
+case:CreditScore: 1004
+case:OfferedAmount: 15000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1895279268
+Event 4:
+
+Unnamed: 0: 19490
+Action: statechange
+org:resource: User_116
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_56265319
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 12:03:12.895000+00:00
+case:concept:name: Offer_1895279268
+case:MonthlyCost: 154.11
+case:Selected: True
+case:ApplicationID: Application_2068032817
+case:FirstWithdrawalAmount: 15000.0
+case:CreditScore: 1004
+case:OfferedAmount: 15000.0
+case:NumberOfTerms: 120
+case:Accepted: true
+OfferID: Offer_1895279268
+
+
+Event 2:
+
+Unnamed: 0: 3104
+Action: statechange
+org:resource: User_10
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_732342924
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:38:14.666000+00:00
+case:concept:name: Offer_2126301883
+case:MonthlyCost: 78.82
+case:Selected: True
+case:ApplicationID: Application_1368535752
+case:FirstWithdrawalAmount: 7000.0
+case:CreditScore: 979
+case:OfferedAmount: 7000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_2126301883
+Event 3:
+
+Unnamed: 0: 10199
+Action: statechange
+org:resource: User_10
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_585123487
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:38:27.944000+00:00
+case:concept:name: Offer_2126301883
+case:MonthlyCost: 78.82
+case:Selected: True
+case:ApplicationID: Application_1368535752
+case:FirstWithdrawalAmount: 7000.0
+case:CreditScore: 979
+case:OfferedAmount: 7000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_2126301883
+Event 4:
+
+Unnamed: 0: 10647
+Action: statechange
+org:resource: User_110
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_2028081748
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 07:00:42.149000+00:00
+case:concept:name: Offer_2126301883
+case:MonthlyCost: 78.82
+case:Selected: True
+case:ApplicationID: Application_1368535752
+case:FirstWithdrawalAmount: 7000.0
+case:CreditScore: 979
+case:OfferedAmount: 7000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_2126301883
+Event 5:
+
+Unnamed: 0: 12912
+Action: statechange
+org:resource: User_91
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_84460873
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 12:42:59.402000+00:00
+case:concept:name: Offer_84460873
+case:MonthlyCost: 78.82
+case:Selected: True
+case:ApplicationID: Application_1368535752
+case:FirstWithdrawalAmount: 7000.0
+case:CreditScore: 979
+case:OfferedAmount: 7000.0
+case:NumberOfTerms: 120
+case:Accepted: true
+OfferID: Offer_2126301883
+
+
+Event 2:
+
+Unnamed: 0: 9804
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1580927566
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:38:42.534000+00:00
+case:concept:name: Offer_1397540844
+case:MonthlyCost: 150.0
+case:Selected: True
+case:ApplicationID: Application_373906261
+case:FirstWithdrawalAmount: 1000.0
+case:CreditScore: 1013
+case:OfferedAmount: 10000.0
+case:NumberOfTerms: 80
+case:Accepted:
+OfferID: Offer_1397540844
+Event 3:
+
+Unnamed: 0: 1502
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_849370873
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:38:57.007000+00:00
+case:concept:name: Offer_1397540844
+case:MonthlyCost: 150.0
+case:Selected: True
+case:ApplicationID: Application_373906261
+case:FirstWithdrawalAmount: 1000.0
+case:CreditScore: 1013
+case:OfferedAmount: 10000.0
+case:NumberOfTerms: 80
+case:Accepted:
+OfferID: Offer_1397540844
+Event 4:
+
+Unnamed: 0: 13045
+Action: statechange
+org:resource: User_102
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_1779418403
+lifecycle:transition: complete
+time:timestamp: 2016-07-20 13:29:00.621000+00:00
+case:concept:name: Offer_1397540844
+case:MonthlyCost: 150.0
+case:Selected: True
+case:ApplicationID: Application_373906261
+case:FirstWithdrawalAmount: 1000.0
+case:CreditScore: 1013
+case:OfferedAmount: 10000.0
+case:NumberOfTerms: 80
+case:Accepted:
+OfferID: Offer_1397540844
+Event 5:
+
+Unnamed: 0: 949
+Action: statechange
+org:resource: User_95
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_1636283029
+lifecycle:transition: complete
+time:timestamp: 2016-07-20 22:00:55.347000+00:00
+case:concept:name: Offer_1636283029
+case:MonthlyCost: 150.0
+case:Selected: True
+case:ApplicationID: Application_373906261
+case:FirstWithdrawalAmount: 1000.0
+case:CreditScore: 1013
+case:OfferedAmount: 10000.0
+case:NumberOfTerms: 80
+case:Accepted:true
+OfferID: Offer_1397540844
+
+
+Event 2:
+
+Unnamed: 0: 10638
+Action: statechange
+org:resource: User_53
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1004551281
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:41:55.244000+00:00
+case:concept:name: Offer_1536605425
+case:MonthlyCost: 120.36
+case:Selected: False
+case:ApplicationID: Application_1983554609
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 47
+case:Accepted:
+OfferID: Offer_1536605425
+Event 3:
+
+Unnamed: 0: 13755
+Action: statechange
+org:resource: User_127
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_1678819911
+lifecycle:transition: complete
+time:timestamp: 2016-08-02 06:10:38.430000+00:00
+case:concept:name: Offer_1687710664
+case:MonthlyCost: 165.56
+case:Selected: True
+case:ApplicationID: Application_1983554609
+case:FirstWithdrawalAmount: 18000.0
+case:CreditScore: 1003
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 120
+case:Accepted: true
+OfferID: Offer_1687710664
+
+
+
+Event 2:
+
+Unnamed: 0: 15257
+Action: statechange
+org:resource: User_3
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_883297948
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:45:57.575000+00:00
+case:concept:name: Offer_2029503808
+case:MonthlyCost: 116.87
+case:Selected: True
+case:ApplicationID: Application_910470491
+case:FirstWithdrawalAmount: 6000.0
+case:CreditScore: 1032
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 60
+case:Accepted:
+OfferID: Offer_2029503808
+Event 3:
+
+Unnamed: 0: 3576
+Action: statechange
+org:resource: User_3
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_46607195
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:46:11.492000+00:00
+case:concept:name: Offer_2029503808
+case:MonthlyCost: 116.87
+case:Selected: True
+case:ApplicationID: Application_910470491
+case:FirstWithdrawalAmount: 6000.0
+case:CreditScore: 1032
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 60
+case:Accepted:
+OfferID: Offer_2029503808
+Event 4:
+
+Unnamed: 0: 2548
+Action: statechange
+org:resource: User_32
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_1766080918
+lifecycle:transition: complete
+time:timestamp: 2016-07-27 10:41:45.128000+00:00
+case:concept:name: Offer_2029503808
+case:MonthlyCost: 116.87
+case:Selected: True
+case:ApplicationID: Application_910470491
+case:FirstWithdrawalAmount: 6000.0
+case:CreditScore: 1032
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 60
+case:Accepted:
+OfferID: Offer_2029503808
+Event 5:
+
+Unnamed: 0: 11255
+Action: statechange
+org:resource: User_32
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_838832019
+lifecycle:transition: complete
+time:timestamp: 2016-07-27 10:42:03.215000+00:00
+case:concept:name: Offer_838832019
+case:MonthlyCost: 116.87
+case:Selected: True
+case:ApplicationID: Application_910470491
+case:FirstWithdrawalAmount: 6000.0
+case:CreditScore: 1032
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 60
+case:Accepted: true
+OfferID: Offer_2029503808
+
+
+Event 2:
+
+Unnamed: 0: 15741
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_962966868
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:47:41.434000+00:00
+case:concept:name: Offer_1190588370
+case:MonthlyCost: 184.94
+case:Selected: True
+case:ApplicationID: Application_748770747
+case:FirstWithdrawalAmount: 18000.0
+case:CreditScore: 931
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1190588370
+Event 3:
+
+Unnamed: 0: 8155
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1565928529
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:48:22.831000+00:00
+case:concept:name: Offer_1190588370
+case:MonthlyCost: 184.94
+case:Selected: True
+case:ApplicationID: Application_748770747
+case:FirstWithdrawalAmount: 18000.0
+case:CreditScore: 931
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1190588370
+Event 4:
+
+Unnamed: 0: 3812
+Action: statechange
+org:resource: User_171
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_2136275210
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 08:24:55.768000+00:00
+case:concept:name: Offer_2136275210
+case:MonthlyCost: 184.94
+case:Selected: True
+case:ApplicationID: Application_748770747
+case:FirstWithdrawalAmount: 18000.0
+case:CreditScore: 1218
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 120
+case:Accepted: True
+OfferID: Offer_1190588370
+
+
+Event 2:
+
+Unnamed: 0: 7869
+Action: statechange
+org:resource: User_10
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1409741426
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:48:39.156000+00:00
+case:concept:name: Offer_812284346
+case:MonthlyCost: 323.39
+case:Selected: True
+case:ApplicationID: Application_897255991
+case:FirstWithdrawalAmount: 347.0
+case:CreditScore: 882
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 90
+case:Accepted:
+OfferID: Offer_812284346
+Event 3:
+
+Unnamed: 0: 5112
+Action: statechange
+org:resource: User_10
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1015878461
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:48:53.911000+00:00
+case:concept:name: Offer_812284346
+case:MonthlyCost: 323.39
+case:Selected: True
+case:ApplicationID: Application_897255991
+case:FirstWithdrawalAmount: 347.0
+case:CreditScore: 882
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 90
+case:Accepted:
+OfferID: Offer_812284346
+Event 4:
+
+Unnamed: 0: 17913
+Action: statechange
+org:resource: User_112
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_1451447656
+lifecycle:transition: complete
+time:timestamp: 2016-07-22 06:49:46.356000+00:00
+case:concept:name: Offer_1451447656
+case:MonthlyCost: 323.39
+case:Selected: True
+case:ApplicationID: Application_897255991
+case:FirstWithdrawalAmount: 347.0
+case:CreditScore: 882
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 90
+case:Accepted: True
+OfferID: Offer_812284346
+
+
+Event 2:
+
+Unnamed: 0: 2211
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1793899699
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:55:09.933000+00:00
+case:concept:name: Offer_462711790
+case:MonthlyCost: 67.56
+case:Selected: False
+case:ApplicationID: Application_948877864
+case:FirstWithdrawalAmount: 4411.0
+case:CreditScore: 0
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_462711790
+Event 3:
+
+Unnamed: 0: 18162
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_172286539
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:55:30.581000+00:00
+case:concept:name: Offer_462711790
+case:MonthlyCost: 67.56
+case:Selected: False
+case:ApplicationID: Application_948877864
+case:FirstWithdrawalAmount: 4411.0
+case:CreditScore: 0
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_462711790
+Event 4:
+
+Unnamed: 0: 2904
+Action: statechange
+org:resource: User_113
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_574084167
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 06:55:22.100000+00:00
+case:concept:name: Offer_574084167
+case:MonthlyCost: 62.4
+case:Selected: True
+case:ApplicationID: Application_848587165
+case:FirstWithdrawalAmount: 5141.0
+case:CreditScore: 977
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 126
+case:Accepted: True
+OfferID: Offer_462711790
+
+
+Event 2:
+
+Unnamed: 0: 8924
+Action: statechange
+org:resource: User_46
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_95160247
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:59:54.772000+00:00
+case:concept:name: Offer_107512078
+case:MonthlyCost: 651.02
+case:Selected: True
+case:ApplicationID: Application_627871717
+case:FirstWithdrawalAmount: 7971.25
+case:CreditScore: 846
+case:OfferedAmount: 60000.0
+case:NumberOfTerms: 111
+case:Accepted:
+OfferID: Offer_107512078
+Event 3:
+
+Unnamed: 0: 17490
+Action: statechange
+org:resource: User_46
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1205206706
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:08:24.897000+00:00
+case:concept:name: Offer_107512078
+case:MonthlyCost: 651.02
+case:Selected: True
+case:ApplicationID: Application_627871717
+case:FirstWithdrawalAmount: 7971.25
+case:CreditScore: 846
+case:OfferedAmount: 60000.0
+case:NumberOfTerms: 111
+case:Accepted:
+OfferID: Offer_107512078
+Event 4:
+
+Unnamed: 0: 3943
+Action: statechange
+org:resource: User_95
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_1026588978
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 22:37:19.171000+00:00
+case:concept:name: Offer_1026588978
+case:MonthlyCost: 651.02
+case:Selected: True
+case:ApplicationID: Application_627871717
+case:FirstWithdrawalAmount: 7971.25
+case:CreditScore: 0
+case:OfferedAmount: 60000.0
+case:NumberOfTerms: 111
+case:Accepted: True
+OfferID: Offer_107512078
+
+
+Event 2:
+
+Unnamed: 0: 3736
+Action: statechange
+org:resource: User_35
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1593320407
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 14:59:59.460000+00:00
+case:concept:name: Offer_415105037
+case:MonthlyCost: 306.85
+case:Selected: True
+case:ApplicationID: Application_1361973250
+case:FirstWithdrawalAmount: 18000.0
+case:CreditScore: 801
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 66
+case:Accepted:
+OfferID: Offer_415105037
+Event 3:
+
+Unnamed: 0: 15382
+Action: statechange
+org:resource: User_35
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1109684552
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:00:13.710000+00:00
+case:concept:name: Offer_415105037
+case:MonthlyCost: 306.85
+case:Selected: True
+case:ApplicationID: Application_1361973250
+case:FirstWithdrawalAmount: 18000.0
+case:CreditScore: 801
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 66
+case:Accepted:
+OfferID: Offer_415105037
+Event 4:
+
+Unnamed: 0: 15233
+Action: statechange
+org:resource: User_75
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_1355651008
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 10:29:00.399000+00:00
+case:concept:name: Offer_415105037
+case:MonthlyCost: 306.85
+case:Selected: True
+case:ApplicationID: Application_1361973250
+case:FirstWithdrawalAmount: 18000.0
+case:CreditScore: 801
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 66
+case:Accepted:
+OfferID: Offer_415105037
+Event 5:
+
+Unnamed: 0: 7335
+Action: statechange
+org:resource: User_75
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_623778488
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 19:13:34.138000+00:00
+case:concept:name: Offer_623778488
+case:MonthlyCost: 306.85
+case:Selected: True
+case:ApplicationID: Application_1361973250
+case:FirstWithdrawalAmount: 18000.0
+case:CreditScore: 801
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 66
+case:Accepted: True
+OfferID: Offer_415105037
+
+
+Event 2:
+
+Unnamed: 0: 6928
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_496443247
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:02:37.102000+00:00
+case:concept:name: Offer_1177526615
+case:MonthlyCost: 254.56
+case:Selected: False
+case:ApplicationID: Application_2131487871
+case:FirstWithdrawalAmount: 25000.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1177526615
+Event 3:
+
+Unnamed: 0: 8022
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_2015960314
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:02:52.463000+00:00
+case:concept:name: Offer_1177526615
+case:MonthlyCost: 254.56
+case:Selected: False
+case:ApplicationID: Application_2131487871
+case:FirstWithdrawalAmount: 25000.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1177526615
+Event 4:
+
+Unnamed: 0: 13574
+Action: statechange
+org:resource: User_94
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_347881654
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 07:00:38.434000+00:00
+case:concept:name: Offer_347881654
+case:MonthlyCost: 254.56
+case:Selected: False
+case:ApplicationID: Application_2131487871
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 120
+case:Accepted: True
+OfferID: Offer_1177526615
+
+
+
+Event 2:
+
+Unnamed: 0: 7678
+Action: statechange
+org:resource: User_60
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1963763940
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:09:57.803000+00:00
+case:concept:name: Offer_2107692501
+case:MonthlyCost: 495.47
+case:Selected: True
+case:ApplicationID: Application_690530126
+case:FirstWithdrawalAmount: 173.0
+case:CreditScore: 851
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 39
+case:Accepted:
+OfferID: Offer_2107692501
+Event 3:
+
+Unnamed: 0: 15032
+Action: statechange
+org:resource: User_60
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1705234520
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:10:27.671000+00:00
+case:concept:name: Offer_2107692501
+case:MonthlyCost: 495.47
+case:Selected: True
+case:ApplicationID: Application_690530126
+case:FirstWithdrawalAmount: 173.0
+case:CreditScore: 851
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 39
+case:Accepted:
+OfferID: Offer_2107692501
+Event 4:
+
+Unnamed: 0: 9927
+Action: statechange
+org:resource: User_113
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_676746328
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 06:43:21.783000+00:00
+case:concept:name: Offer_676746328
+case:MonthlyCost: 495.47
+case:Selected: True
+case:ApplicationID: Application_690530126
+case:FirstWithdrawalAmount: 9706.0
+case:CreditScore: 851
+case:OfferedAmount: 18000.0
+case:NumberOfTerms: 39
+case:Accepted: False
+OfferID: Offer_2107692501
+
+
+Event 2:
+
+Unnamed: 0: 12850
+Action: statechange
+org:resource: User_53
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1165822066
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:11:18.077000+00:00
+case:concept:name: Offer_1927519045
+case:MonthlyCost: 251.0
+case:Selected: False
+case:ApplicationID: Application_260872741
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 15000.0
+case:NumberOfTerms: 69
+case:Accepted:
+OfferID: Offer_1927519045
+Event 3:
+
+Unnamed: 0: 5781
+Action: statechange
+org:resource: User_53
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_376348222
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:11:29.711000+00:00
+case:concept:name: Offer_1927519045
+case:MonthlyCost: 251.0
+case:Selected: False
+case:ApplicationID: Application_260872741
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 15000.0
+case:NumberOfTerms: 69
+case:Accepted:
+OfferID: Offer_1927519045
+Event 4:
+
+Unnamed: 0: 6026
+Action: statechange
+org:resource: User_72
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_2087424379
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 12:54:39.392000+00:00
+case:concept:name: Offer_2087424379
+case:MonthlyCost: 218.39
+case:Selected: False
+case:ApplicationID: Application_260872741
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 1041
+case:OfferedAmount: 15000.0
+case:NumberOfTerms: 69
+case:Accepted: True
+OfferID: Offer_1932491971
+
+
+Event 2:
+
+Unnamed: 0: 1483
+Action: statechange
+org:resource: User_3
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1289458610
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:31:19.650000+00:00
+case:concept:name: Offer_1678200851
+case:MonthlyCost: 200.0
+case:Selected: True
+case:ApplicationID: Application_1213104145
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 889
+case:OfferedAmount: 8000.0
+case:NumberOfTerms: 45
+case:Accepted:
+OfferID: Offer_1678200851
+Event 3:
+
+Unnamed: 0: 4401
+Action: statechange
+org:resource: User_3
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1678093524
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 15:31:40.707000+00:00
+case:concept:name: Offer_1678200851
+case:MonthlyCost: 200.0
+case:Selected: True
+case:ApplicationID: Application_1213104145
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 889
+case:OfferedAmount: 8000.0
+case:NumberOfTerms: 45
+case:Accepted:
+OfferID: Offer_1678200851
+Event 4:
+
+Unnamed: 0: 3038
+Action: statechange
+org:resource: User_135
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_423554628
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 12:55:45.899000+00:00
+case:concept:name: Offer_1678200851
+case:MonthlyCost: 200.0
+case:Selected: True
+case:ApplicationID: Application_1213104145
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 889
+case:OfferedAmount: 8000.0
+case:NumberOfTerms: 45
+case:Accepted:
+OfferID: Offer_1678200851
+Event 5:
+
+Unnamed: 0: 11218
+Action: statechange
+org:resource: User_33
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_1615057122
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 13:13:44.142000+00:00
+case:concept:name: Offer_1615057122
+case:MonthlyCost: 360.0
+case:Selected: False
+case:ApplicationID: Application_1213104145
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 998
+case:OfferedAmount: 22000.0
+case:NumberOfTerms: 62
+case:Accepted: False
+OfferID: Offer_1133841957
+
+
+Event 2:
+
+Unnamed: 0: 8730
+Action: statechange
+org:resource: User_35
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_98206645
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 16:06:14.798000+00:00
+case:concept:name: Offer_1496875188
+case:MonthlyCost: 750.0
+case:Selected: False
+case:ApplicationID: Application_399187920
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 75000.0
+case:NumberOfTerms: 126
+case:Accepted:
+OfferID: Offer_1496875188
+Event 3:
+
+Unnamed: 0: 15314
+Action: statechange
+org:resource: User_35
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1071850930
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 16:07:24.571000+00:00
+case:concept:name: Offer_1496875188
+case:MonthlyCost: 750.0
+case:Selected: False
+case:ApplicationID: Application_399187920
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 75000.0
+case:NumberOfTerms: 126
+case:Accepted:
+OfferID: Offer_1496875188
+Event 4:
+
+Unnamed: 0: 1481
+Action: statechange
+org:resource: User_118
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_713514848
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 06:52:44.870000+00:00
+case:concept:name: Offer_713514848
+case:MonthlyCost: 750.0
+case:Selected: False
+case:ApplicationID: Application_399187920
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 1042
+case:OfferedAmount: 75000.0
+case:NumberOfTerms: 126
+case:Accepted: False
+OfferID: Offer_1496875188
+Event 5:
+
+Unnamed: 0: 11593
+Action: statechange
+org:resource: User_118
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_1061389522
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 06:52:44.909000+00:00
+case:concept:name: Offer_1061389522
+case:MonthlyCost: 135.54
+case:Selected: False
+case:ApplicationID: Application_399187920
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 6500.0
+case:NumberOfTerms: 60
+case:Accepted: False
+OfferID: Offer_912698996
+Event 6:
+
+Unnamed: 0: 10901
+Action: statechange
+org:resource: User_118
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_403225699
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 06:52:44.954000+00:00
+case:concept:name: Offer_403225699
+case:MonthlyCost: 306.0
+case:Selected: False
+case:ApplicationID: Application_399187920
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 36000.0
+case:NumberOfTerms: 131
+case:Accepted: False
+OfferID: Offer_308458902
+Event 7:
+
+Unnamed: 0: 10902
+Action: statechange
+org:resource: User_118
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_1251099524
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 06:52:45.070000+00:00
+case:concept:name: Offer_1251099524
+case:MonthlyCost: 306.0
+case:Selected: False
+case:ApplicationID: Application_399187920
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 36000.0
+case:NumberOfTerms: 131
+case:Accepted: False
+OfferID: Offer_1463895541
+Event 8:
+
+Unnamed: 0: 10903
+Action: statechange
+org:resource: User_118
+concept:name: O_Cancelled
+EventOrigin: Offer
+Offer_1263689115
+transition: complete
+time:timestamp: 2016-07-19 06:52:45.887000+00:00
+case:concept:name: Offer_1263689115
+case:MonthlyCost: 449.35
+case:Selected: False
+case:ApplicationID: Application_399187920
+case:FirstWithdrawalAmount: 6000.0
+case:CreditScore: 1206
+case:OfferedAmount: 54737.0
+case:NumberOfTerms: 128
+case:Accepted: False
+OfferID: Offer_1239903942
+Event 9:
+
+Unnamed: 0: 10904
+Action: statechange
+org:resource: User_118
+concept:name: O_Cancelled
+EventOrigin: Offer
+Offer_1107239287
+transition: complete
+time:timestamp: 2016-07-19 06:52:46.089000+00:00
+case:concept:name: Offer_1107239287
+case:MonthlyCost: 455.0
+case:Selected: False
+case:ApplicationID: Application_399187920
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 54737.0
+case:NumberOfTerms: 128
+case:Accepted: False
+OfferID: Offer_2037598028
+
+
+Event 2:
+
+Unnamed: 0: 11440
+Action: statechange
+org:resource: User_18
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_46530315
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 16:10:57.490000+00:00
+case:concept:name: Offer_848233677
+case:MonthlyCost: 298.2
+case:Selected: False
+case:ApplicationID: Application_1056924645
+case:FirstWithdrawalAmount: 12956.0
+case:CreditScore: 0
+case:OfferedAmount: 20700.0
+case:NumberOfTerms: 80
+case:Accepted:
+OfferID: Offer_848233677
+Event 3:
+
+Unnamed: 0: 2840
+Action: statechange
+org:resource: User_18
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_592218667
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 16:11:13.851000+00:00
+case:concept:name: Offer_848233677
+case:MonthlyCost: 298.2
+case:Selected: False
+case:ApplicationID: Application_1056924645
+case:FirstWithdrawalAmount: 12956.0
+case:CreditScore: 0
+case:OfferedAmount: 20700.0
+case:NumberOfTerms: 80
+case:Accepted:
+OfferID: Offer_848233677
+Event 4:
+
+Unnamed: 0: 8282
+Action: statechange
+org:resource: User_18
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_986899969
+lifecycle:transition: complete
+time:timestamp: 2016-07-19 07:45:50.570000+00:00
+case:concept:name: Offer_986899969
+case:MonthlyCost: 500.0
+case:Selected: False
+case:ApplicationID: Application_1056924645
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 54
+case:Accepted: False
+OfferID: Offer_1810492960
+
+
+
+Event 2:
+
+Unnamed: 0: 10219
+Action: statechange
+org:resource: User_3
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1003756478
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 16:32:55.190000+00:00
+case:concept:name: Offer_1497112908
+case:MonthlyCost: 154.15
+case:Selected: False
+case:ApplicationID: Application_1861352527
+case:FirstWithdrawalAmount: 10000.0
+case:CreditScore: 0
+case:OfferedAmount: 10000.0
+case:NumberOfTerms: 76
+case:Accepted:
+OfferID: Offer_1497112908
+Event 3:
+
+Unnamed: 0: 17811
+Action: statechange
+org:resource: User_34
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1557716141
+lifecycle:transition: complete
+time:timestamp: 2016-07-20 05:37:20.981000+00:00
+case:concept:name: Offer_1497112908
+case:MonthlyCost: 154.15
+case:Selected: False
+case:ApplicationID: Application_1861352527
+case:FirstWithdrawalAmount: 10000.0
+case:CreditScore: 0
+case:OfferedAmount: 10000.0
+case:NumberOfTerms: 76
+case:Accepted:
+OfferID: Offer_1497112908
+Event 4:
+
+Unnamed: 0: 2851
+Action: statechange
+org:resource: User_121
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_185512079
+lifecycle:transition: complete
+time:timestamp: 2016-07-22 15:03:10.297000+00:00
+case:concept:name: Offer_185512079
+case:MonthlyCost: 154.15
+case:Selected: False
+case:ApplicationID: Application_1861352527
+case:FirstWithdrawalAmount: 11591.0
+case:CreditScore: 1088
+case:OfferedAmount: 10000.0
+case:NumberOfTerms: 76
+case:Accepted: True
+OfferID: Offer_1497112908
+
+
+
+Event 2:
+
+Unnamed: 0: 828
+Action: statechange
+org:resource: User_18
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_246301291
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 16:37:33.992000+00:00
+case:concept:name: Offer_1182368627
+case:MonthlyCost: 425.0
+case:Selected: False
+case:ApplicationID: Application_801957623
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 40800.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1182368627
+Event 3:
+
+Unnamed: 0: 9323
+Action: statechange
+org:resource: User_18
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_560174270
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 16:37:54.096000+00:00
+case:concept:name: Offer_1182368627
+case:MonthlyCost: 425.0
+case:Selected: False
+case:ApplicationID: Application_801957623
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 40800.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1182368627
+Event 4:
+
+Unnamed: 0: 18442
+Action: statechange
+org:resource: User_31
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_66779093
+lifecycle:transition: complete
+time:timestamp: 2016-07-29 09:54:16.174000+00:00
+case:concept:name: Offer_66779093
+case:MonthlyCost: 425.0
+case:Selected: False
+case:ApplicationID: Application_801957623
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 944
+case:OfferedAmount: 40800.0
+case:NumberOfTerms: 120
+case:Accepted: False
+OfferID: Offer_1633817164
+Event 5:
+
+Unnamed: 0: 28554
+Action: statechange
+org:resource: User_31
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_1366371120
+lifecycle:transition: complete
+time:timestamp: 2016-08-08 10:38:50.077000+00:00
+case:concept:name: Offer_1366371120
+case:MonthlyCost: 425.0
+case:Selected: False
+case:ApplicationID: Application_801957623
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 40800.0
+case:NumberOfTerms: 120
+case:Accepted: False
+OfferID: Offer_1495857859
+Event 6:
+
+Unnamed: 0: 11932
+Action: statechange
+org:resource: User_31
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_618334766
+lifecycle:transition: complete
+time:timestamp: 2016-08-08 10:38:50.143000+00:00
+case:concept:name: Offer_618334766
+case:MonthlyCost: 670.92
+case:Selected: False
+case:ApplicationID: Application_801957623
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 1024
+case:OfferedAmount: 91000.0
+case:NumberOfTerms: 144
+case:Accepted: False
+OfferID: Offer_2015939279
+
+
+
+Event 2:
+
+Unnamed: 0: 6573
+Action: statechange
+org:resource: User_53
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1664096255
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 17:09:29.834000+00:00
+case:concept:name: Offer_1532693790
+case:MonthlyCost: 295.29
+case:Selected: False
+case:ApplicationID: Application_453692151
+case:FirstWithdrawalAmount: 29000.0
+case:CreditScore: 0
+case:OfferedAmount: 29000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1532693790
+Event 3:
+
+Unnamed: 0: 14336
+Action: statechange
+org:resource: User_53
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1027578972
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 17:09:51.224000+00:00
+case:concept:name: Offer_1532693790
+case:MonthlyCost: 295.29
+case:Selected: False
+case:ApplicationID: Application_453692151
+case:FirstWithdrawalAmount: 29000.0
+case:CreditScore: 0
+case:OfferedAmount: 29000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1532693790
+Event 4:
+
+Unnamed: 0: 17654
+Action: statechange
+org:resource: User_49
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: OfferState_604961687
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 04:56:03.597000+00:00
+case:concept:name: Offer_1532693790
+case:MonthlyCost: 295.29
+case:Selected: False
+case:ApplicationID: Application_453692151
+case:FirstWithdrawalAmount: 29000.0
+case:CreditScore: 0
+case:OfferedAmount: 29000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1532693790
+Event 5:
+
+Unnamed: 0: 16352
+Action: statechange
+org:resource: User_49
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_1728002969
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 04:56:04.400000+00:00
+case:concept:name: Offer_1728002969
+case:MonthlyCost: 500.0
+case:Selected: False
+case:ApplicationID: Application_453692151
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 75000.0
+case:NumberOfTerms: 180
+case:Accepted: False
+OfferID: Offer_219401781
+
+
+Event 2:
+
+Unnamed: 0: 11581
+Action: statechange
+org:resource: User_26
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1519402205
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 17:59:45.186000+00:00
+case:concept:name: Offer_532631832
+case:MonthlyCost: 207.99
+case:Selected: True
+case:ApplicationID: Application_1411816386
+case:FirstWithdrawalAmount: 11000.0
+case:CreditScore: 935
+case:OfferedAmount: 11000.0
+case:NumberOfTerms: 60
+case:Accepted:
+OfferID: Offer_532631832
+Event 3:
+
+Unnamed: 0: 15422
+Action: statechange
+org:resource: User_26
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1696165939
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 18:00:00.544000+00:00
+case:concept:name: Offer_532631832
+case:MonthlyCost: 207.99
+case:Selected: True
+case:ApplicationID: Application_1411816386
+case:FirstWithdrawalAmount: 11000.0
+case:CreditScore: 935
+case:OfferedAmount: 11000.0
+case:NumberOfTerms: 60
+case:Accepted: True
+OfferID: Offer_532631832
+
+
+Event 2:
+
+Unnamed: 0: 15145
+Action: statechange
+org:resource: User_18
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_178074771
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 18:01:38.831000+00:00
+case:concept:name: Offer_958263780
+case:MonthlyCost: 250.0
+case:Selected: True
+case:ApplicationID: Application_783999795
+case:FirstWithdrawalAmount: 2500.0
+case:CreditScore: 840
+case:OfferedAmount: 10000.0
+case:NumberOfTerms: 45
+case:Accepted:
+OfferID: Offer_958263780
+Event 3:
+
+Unnamed: 0: 13334
+Action: statechange
+org:resource: User_18
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_538957564
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 18:02:00.091000+00:00
+case:concept:name: Offer_958263780
+case:MonthlyCost: 250.0
+case:Selected: True
+case:ApplicationID: Application_783999795
+case:FirstWithdrawalAmount: 2500.0
+case:CreditScore: 840
+case:OfferedAmount: 10000.0
+case:NumberOfTerms: 45
+case:Accepted:
+OfferID: Offer_958263780
+Event 4:
+
+Unnamed: 0: 7146
+Action: statechange
+org:resource: User_18
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_2020373641
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 01:56:55.990000+00:00
+case:concept:name: Offer_2020373641
+case:MonthlyCost: 250.0
+case:Selected: True
+case:ApplicationID: Application_783999795
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 56000.0
+case:NumberOfTerms: 179
+case:Accepted: False
+OfferID: Offer_1120872771
+
+
+Event 2:
+
+Unnamed: 0: 7442
+Action: statechange
+org:resource: User_3
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1214928675
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 18:11:24.522000+00:00
+case:concept:name: Offer_24965485
+case:MonthlyCost: 198.53
+case:Selected: True
+case:ApplicationID: Application_1926279546
+case:FirstWithdrawalAmount: 8000.0
+case:CreditScore: 877
+case:OfferedAmount: 10500.0
+case:NumberOfTerms: 60
+case:Accepted:
+OfferID: Offer_24965485
+Event 3:
+
+Unnamed: 0: 14515
+Action: statechange
+org:resource: User_3
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1796061006
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 18:11:55.795000+00:00
+case:concept:name: Offer_24965485
+case:MonthlyCost: 198.53
+case:Selected: True
+case:ApplicationID: Application_1926279546
+case:FirstWithdrawalAmount: 8000.0
+case:CreditScore: 877
+case:OfferedAmount: 10500.0
+case:NumberOfTerms: 60
+case:Accepted:
+OfferID: Offer_24965485
+Event 4:
+
+Unnamed: 0: 610
+Action: statechange
+org:resource: User_120
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_716216433
+lifecycle:transition: complete
+time:timestamp: 2016-07-25 10:47:11.740000+00:00
+case:concept:name: Offer_716216433
+case:MonthlyCost: 200.0
+case:Selected: True
+case:ApplicationID: Application_1926279546
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 1218
+case:OfferedAmount: 6000.0
+case:NumberOfTerms: 70
+case:Accepted: False
+OfferID: Offer_1466472785
+Event 5:
+
+Unnamed: 0: 2959
+Action: statechange
+org:resource: User_18
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_1402537079
+lifecycle:transition: complete
+time:timestamp: 2016-07-27 05:34:29.983000+00:00
+case:concept:name: Offer_1402537079
+case:MonthlyCost: 250.0
+case:Selected: True
+case:ApplicationID: Application_1926279546
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 870
+case:OfferedAmount: 10000.0
+case:NumberOfTerms: 43
+case:Accepted: False
+OfferID: Offer_983975307
+
+
+Event 2:
+
+Unnamed: 0: 22972
+Action: statechange
+org:resource: User_49
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_219121516
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 18:35:37.288000+00:00
+case:concept:name: Offer_1424244594
+case:MonthlyCost: 254.56
+case:Selected: True
+case:ApplicationID: Application_1724977442
+case:FirstWithdrawalAmount: 24861.27
+case:CreditScore: 798
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1424244594
+Event 3:
+
+Unnamed: 0: 18755
+Action: statechange
+org:resource: User_49
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_722138849
+lifecycle:transition: complete
+time:timestamp: 2016-07-15 18:36:09.703000+00:00
+case:concept:name: Offer_1424244594
+case:MonthlyCost: 254.56
+case:Selected: True
+case:ApplicationID: Application_1724977442
+case:FirstWithdrawalAmount: 24861.27
+case:CreditScore: 798
+case:OfferedAmount: 25000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_1424244594
+Event 4:
+
+Unnamed: 0: 16150
+Action: statechange
+org:resource: User_29
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_473923515
+lifecycle:transition: complete
+time:timestamp: 2016-08-01 09:27:24.679000+00:00
+case:concept:name: Offer_473923515
+case:MonthlyCost: 304.44
+case:Selected: True
+case:ApplicationID: Application_1724977442
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 32000.0
+case:NumberOfTerms: 128
+case:Accepted: True
+OfferID: Offer_1145884165
+
+
+Event 2:
+
+Unnamed: 0: 7114
+Action: statechange
+org:resource: User_28
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1629862358
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:23:10.069000+00:00
+case:concept:name: Offer_601696631
+case:MonthlyCost: 199.14
+case:Selected: True
+case:ApplicationID: Application_688791477
+case:FirstWithdrawalAmount: 935.0
+case:CreditScore: 961
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 27
+case:Accepted:
+OfferID: Offer_601696631
+Event 3:
+
+Unnamed: 0: 9168
+Action: statechange
+org:resource: User_28
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_570633574
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:23:50.827000+00:00
+case:concept:name: Offer_601696631
+case:MonthlyCost: 199.14
+case:Selected: True
+case:ApplicationID: Application_688791477
+case:FirstWithdrawalAmount: 935.0
+case:CreditScore: 961
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 27
+case:Accepted:
+OfferID: Offer_601696631
+Event 4:
+
+Unnamed: 0: 5727
+Action: statechange
+org:resource: User_87
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_50510211
+lifecycle:transition: complete
+time:timestamp: 2016-07-18 07:50:27.994000+00:00
+case:concept:name: Offer_50510211
+case:MonthlyCost: 199.14
+case:Selected: True
+case:ApplicationID: Application_688791477
+case:FirstWithdrawalAmount: 935.0
+case:CreditScore: 1227
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 27
+case:Accepted: True
+OfferID: Offer_1263988370
+
+
+
+Event 2:
+
+Unnamed: 0: 7029
+Action: statechange
+org:resource: User_35
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1618198051
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:24:28.378000+00:00
+case:concept:name: Offer_1928741306
+case:MonthlyCost: 296.93
+case:Selected: True
+case:ApplicationID: Application_1754860039
+case:FirstWithdrawalAmount: 7150.0
+case:CreditScore: 729
+case:OfferedAmount: 16000.0
+case:NumberOfTerms: 60
+case:Accepted:
+OfferID: Offer_1928741306
+Event 3:
+
+Unnamed: 0: 9823
+Action: statechange
+org:resource: User_35
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_665752345
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:24:49.179000+00:00
+case:concept:name: Offer_1928741306
+case:MonthlyCost: 296.93
+case:Selected: True
+case:ApplicationID: Application_1754860039
+case:FirstWithdrawalAmount: 7150.0
+case:CreditScore: 729
+case:OfferedAmount: 16000.0
+case:NumberOfTerms: 60
+case:Accepted:
+OfferID: Offer_1928741306
+Event 4:
+
+Unnamed: 0: 5120
+Action: statechange
+org:resource: User_112
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_227803155
+lifecycle:transition: complete
+time:timestamp: 2016-08-01 13:09:20.116000+00:00
+case:concept:name: Offer_227803155
+case:MonthlyCost: 296.93
+case:Selected: True
+case:ApplicationID: Application_1754860039
+case:FirstWithdrawalAmount: 7150.0
+case:CreditScore: 729
+case:OfferedAmount: 16000.0
+case:NumberOfTerms: 60
+case:Accepted: True
+OfferID: Offer_1928741306
+
+
+Event 2:
+
+Unnamed: 0: 15272
+Action: statechange
+org:resource: User_37
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1603522704
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:29:00.442000+00:00
+case:concept:name: Offer_963432501
+case:MonthlyCost: 148.07
+case:Selected: True
+case:ApplicationID: Application_973884952
+case:FirstWithdrawalAmount: 3851.75
+case:CreditScore: 764
+case:OfferedAmount: 13000.0
+case:NumberOfTerms: 110
+case:Accepted:
+OfferID: Offer_963432501
+Event 3:
+
+Unnamed: 0: 9163
+Action: statechange
+org:resource: User_37
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1210884636
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:29:30.374000+00:00
+case:concept:name: Offer_963432501
+case:MonthlyCost: 148.07
+case:Selected: True
+case:ApplicationID: Application_973884952
+case:FirstWithdrawalAmount: 3851.75
+case:CreditScore: 764
+case:OfferedAmount: 13000.0
+case:NumberOfTerms: 110
+case:Accepted:
+OfferID: Offer_963432501
+Event 4:
+
+Unnamed: 0: 9184
+Action: statechange
+org:resource: User_51
+concept:name: O_Returned
+EventOrigin: Offer
+Offer_1168724229
+transition: complete
+time:timestamp: 2016-07-27 12:41:54.971000+00:00
+case:concept:name: Offer_1168724229
+case:MonthlyCost: 86.73
+case:Selected: True
+case:ApplicationID: Application_973884952
+case:FirstWithdrawalAmount: 12259.0
+case:CreditScore: 863
+case:OfferedAmount: 13000.0
+case:NumberOfTerms: 180
+case:Accepted: False
+OfferID: Offer_2066987155
+
+
+Event 2:
+
+Unnamed: 0: 9461
+Action: statechange
+org:resource: User_17
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_710962123
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:31:26.733000+00:00
+case:concept:name: Offer_267924905
+case:MonthlyCost: 64.43
+case:Selected: True
+case:ApplicationID: Application_1029247764
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 100
+case:Accepted:
+OfferID: Offer_267924905
+Event 3:
+
+Unnamed: 0: 4157
+Action: statechange
+org:resource: User_17
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_246937385
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:31:47.715000+00:00
+case:concept:name: Offer_267924905
+case:MonthlyCost: 64.43
+case:Selected: True
+case:ApplicationID: Application_1029247764
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 0
+case:OfferedAmount: 5000.0
+case:NumberOfTerms: 100
+case:Accepted:
+OfferID: Offer_267924905
+Event 4:
+
+Unnamed: 0: 2830
+Action: statechange
+org:resource: User_86
+concept:name: O_Cancelled
+EventOrigin: Offer
+EventID: Offer_238646744
+lifecycle:transition: complete
+time:timestamp: 2016-07-22 10:46:19.576000+00:00
+case:concept:name: Offer_238646744
+case:MonthlyCost: 65.0
+case:Selected: False
+case:ApplicationID: Application_1029247764
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 5700.0
+case:NumberOfTerms: 100
+case:Accepted: False
+OfferID: Offer_2006112375
+
+
+Event 2:
+
+Unnamed: 0: 15384
+Action: statechange
+org:resource: User_46
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_1468967018
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:38:17.744000+00:00
+case:concept:name: Offer_26764083
+case:MonthlyCost: 450.0
+case:Selected: True
+case:ApplicationID: Application_643423512
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 23300.0
+case:NumberOfTerms: 58
+case:Accepted:
+OfferID: Offer_26764083
+Event 3:
+
+Unnamed: 0: 29286
+Action: statechange
+org:resource: User_46
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1174499978
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:38:55.796000+00:00
+case:concept:name: Offer_26764083
+case:MonthlyCost: 450.0
+case:Selected: True
+case:ApplicationID: Application_643423512
+case:FirstWithdrawalAmount: 0.0
+case:CreditScore: 0
+case:OfferedAmount: 23300.0
+case:NumberOfTerms: 58
+case:Accepted:
+OfferID: Offer_26764083
+Event 4:
+
+Unnamed: 0: 5620
+Action: statechange
+org:resource: User_93
+concept:name: O_Accepted
+EventOrigin: Offer
+EventID: Offer_1920885811
+lifecycle:transition: complete
+time:timestamp: 2016-07-20 20:06:19.171000+00:00
+case:concept:name: Offer_1920885811
+case:MonthlyCost: 450.0
+case:Selected: True
+case:ApplicationID: Application_643423512
+case:FirstWithdrawalAmount: 5000.0
+case:CreditScore: 1146
+case:OfferedAmount: 18300.0
+case:NumberOfTerms: 58
+case:Accepted: True
+OfferID: Offer_574999475
+
+
+
+
+Event 2:
+
+Unnamed: 0: 10008
+Action: statechange
+org:resource: User_46
+concept:name: O_Created
+EventOrigin: Offer
+EventID: OfferState_892216682
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:52:13.841000+00:00
+case:concept:name: Offer_384707149
+case:MonthlyCost: 305.47
+case:Selected: True
+case:ApplicationID: Application_1388483180
+case:FirstWithdrawalAmount: 30000.0
+case:CreditScore: 958
+case:OfferedAmount: 30000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_384707149
+Event 3:
+
+Unnamed: 0: 10654
+Action: statechange
+org:resource: User_46
+concept:name: O_Sent
+EventOrigin: Offer
+EventID: OfferState_1461130397
+lifecycle:transition: complete
+time:timestamp: 2016-07-16 08:59:23.840000+00:00
+case:concept:name: Offer_384707149
+case:MonthlyCost: 305.47
+case:Selected: True
+case:ApplicationID: Application_1388483180
+case:FirstWithdrawalAmount: 30000.0
+case:CreditScore: 958
+case:OfferedAmount: 30000.0
+case:NumberOfTerms: 120
+case:Accepted:
+OfferID: Offer_384707149
+Event 4:
+
+Unnamed: 0: 17405
+Action: statechange
+org:resource: User_116
+concept:name: O_Returned
+EventOrigin: Offer
+EventID: Offer_777016764
+lifecycle:transition: complete
+time:timestamp: 2016-07-22 06:56:41.256000+00:00
+case:concept:name: Offer_777016764
+case:MonthlyCost: 305.47
+case:Selected: True
+case:ApplicationID: Application_1388483180
+case:FirstWithdrawalAmount: 30000.0
+case:CreditScore: 958
+case:OfferedAmount: 30000.0
+case:NumberOfTerms: 120
+case:Accepted: false
+OfferID: Offer_384707149

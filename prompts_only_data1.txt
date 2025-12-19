@@ -1,0 +1,1988 @@
+Here is the first event of application Application_1703731762:
+- Unnamed: 0: 98073
+- Action: Created
+- org:resource: User_46
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_2026305556
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:22:14.170000+00:00
+- case:concept:name: Offer_2026305556
+- case:MonthlyCost: 300.0
+- case:Selected: False
+- case:ApplicationID: Application_1703731762
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 25000.0
+- case:NumberOfTerms: 101
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1218775385:
+- Unnamed: 0: 98077
+- Action: Created
+- org:resource: User_17
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1944055847
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:22:57.111000+00:00
+- case:concept:name: Offer_1944055847
+- case:MonthlyCost: 205.49
+- case:Selected: True
+- case:ApplicationID: Application_1218775385
+- case:FirstWithdrawalAmount: 20000.0
+- case:CreditScore: 713
+- case:OfferedAmount: 20000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1224457292:
+- Unnamed: 0: 98082
+- Action: Created
+- org:resource: User_49
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_743621544
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:25:42.260000+00:00
+- case:concept:name: Offer_743621544
+- case:MonthlyCost: 130.94
+- case:Selected: True
+- case:ApplicationID: Application_1224457292
+- case:FirstWithdrawalAmount: 12300.0
+- case:CreditScore: 842
+- case:OfferedAmount: 12300.0
+- case:NumberOfTerms: 120
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1808303712:
+- Unnamed: 0: 98087
+- Action: Created
+- org:resource: User_43
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_554022449
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:27:00.852000+00:00
+- case:concept:name: Offer_554022449
+- case:MonthlyCost: 254.56
+- case:Selected: False
+- case:ApplicationID: Application_1808303712
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 25000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_426309193:
+- Unnamed: 0: 98091
+- Action: Created
+- org:resource: User_85
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_491676101
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:27:01.280000+00:00
+- case:concept:name: Offer_491676101
+- case:MonthlyCost: 288.16
+- case:Selected: True
+- case:ApplicationID: Application_426309193
+- case:FirstWithdrawalAmount: 10931.55
+- case:CreditScore: 998
+- case:OfferedAmount: 28300.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1037363488:
+- Unnamed: 0: 98096
+- Action: Created
+- org:resource: User_28
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1186971623
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:29:51.190000+00:00
+- case:concept:name: Offer_1186971623
+- case:MonthlyCost: 141.78
+- case:Selected: True
+- case:ApplicationID: Application_1037363488
+- case:FirstWithdrawalAmount: 6000.0
+- case:CreditScore: 892
+- case:OfferedAmount: 6000.0
+- case:NumberOfTerms: 48
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1483659784:
+- Unnamed: 0: 98101
+- Action: Created
+- org:resource: User_49
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_129539457
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:33:57.186000+00:00
+- case:concept:name: Offer_129539457
+- case:MonthlyCost: 273.28
+- case:Selected: False
+- case:ApplicationID: Application_1483659784
+- case:FirstWithdrawalAmount: 25000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 25000.0
+- case:NumberOfTerms: 110
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_930144104:
+- Unnamed: 0: 98110
+- Action: Created
+- org:resource: User_35
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1385414832
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:39:40.022000+00:00
+- case:concept:name: Offer_1385414832
+- case:MonthlyCost: 301.58
+- case:Selected: False
+- case:ApplicationID: Application_930144104
+- case:FirstWithdrawalAmount: 28000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 28000.0
+- case:NumberOfTerms: 112
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1030731936:
+- Unnamed: 0: 98114
+- Action: Created
+- org:resource: User_28
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1574940307
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:40:04.844000+00:00
+- case:concept:name: Offer_1574940307
+- case:MonthlyCost: 60.0
+- case:Selected: True
+- case:ApplicationID: Application_1030731936
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 6000.0
+- case:NumberOfTerms: 138
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_926870086:
+- Unnamed: 0: 98128
+- Action: Created
+- org:resource: User_3
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1716775983
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:43:07.366000+00:00
+- case:concept:name: Offer_1716775983
+- case:MonthlyCost: 120.0
+- case:Selected: False
+- case:ApplicationID: Application_926870086
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 12000.0
+- case:NumberOfTerms: 134
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1666960622:
+- Unnamed: 0: 98133
+- Action: Created
+- org:resource: User_49
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_962495729
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:43:13.178000+00:00
+- case:concept:name: Offer_962495729
+- case:MonthlyCost: 199.14
+- case:Selected: True
+- case:ApplicationID: Application_1666960622
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 27
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_61929194:
+- Unnamed: 0: 98138
+- Action: Created
+- org:resource: User_49
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_276142195
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:51:34.736000+00:00
+- case:concept:name: Offer_276142195
+- case:MonthlyCost: 200.0
+- case:Selected: True
+- case:ApplicationID: Application_61929194
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 931
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 27
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1101006464:
+- Unnamed: 0: 98143
+- Action: Created
+- org:resource: User_3
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1678922866
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:54:09.652000+00:00
+- case:concept:name: Offer_1678922866
+- case:MonthlyCost: 478.57
+- case:Selected: False
+- case:ApplicationID: Application_1101006464
+- case:FirstWithdrawalAmount: 22317.0
+- case:CreditScore: 0
+- case:OfferedAmount: 47000.0
+- case:NumberOfTerms: 120
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_663500615:
+- Unnamed: 0: 98148
+- Action: Created
+- org:resource: User_60
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_453639244
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 13:55:00.381000+00:00
+- case:concept:name: Offer_453639244
+- case:MonthlyCost: 455.0
+- case:Selected: True
+- case:ApplicationID: Application_663500615
+- case:FirstWithdrawalAmount: 2000.0
+- case:CreditScore: 937
+- case:OfferedAmount: 45000.0
+- case:NumberOfTerms: 124
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1903540859:
+- Unnamed: 0: 98153
+- Action: Created
+- org:resource: User_43
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_643340845
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:01:57.809000+00:00
+- case:concept:name: Offer_643340845
+- case:MonthlyCost: 299.65
+- case:Selected: True
+- case:ApplicationID: Application_1903540859
+- case:FirstWithdrawalAmount: 27000.0
+- case:CreditScore: 974
+- case:OfferedAmount: 27000.0
+- case:NumberOfTerms: 108
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1791368518:
+- Unnamed: 0: 98163
+- Action: Created
+- org:resource: User_3
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1165036030
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:05:09.952000+00:00
+- case:concept:name: Offer_1165036030
+- case:MonthlyCost: 336.32
+- case:Selected: False
+- case:ApplicationID: Application_1791368518
+- case:FirstWithdrawalAmount: 2927.0
+- case:CreditScore: 0
+- case:OfferedAmount: 26000.0
+- case:NumberOfTerms: 90
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_638813041:
+- Unnamed: 0: 98166
+- Action: Created
+- org:resource: User_45
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_2121718976
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:05:17.568000+00:00
+- case:concept:name: Offer_2121718976
+- case:MonthlyCost: 100.0
+- case:Selected: False
+- case:ApplicationID: Application_638813041
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 58
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1231928487:
+- Unnamed: 0: 98170
+- Action: Created
+- org:resource: User_49
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_179567422
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:05:34.281000+00:00
+- case:concept:name: Offer_179567422
+- case:MonthlyCost: 125.0
+- case:Selected: True
+- case:ApplicationID: Application_1231928487
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 936
+- case:OfferedAmount: 7500.0
+- case:NumberOfTerms: 72
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_983336218:
+- Unnamed: 0: 98180
+- Action: Created
+- org:resource: User_10
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_2024124288
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:18:22.262000+00:00
+- case:concept:name: Offer_2024124288
+- case:MonthlyCost: 200.12
+- case:Selected: False
+- case:ApplicationID: Application_983336218
+- case:FirstWithdrawalAmount: 6693.0
+- case:CreditScore: 0
+- case:OfferedAmount: 8000.0
+- case:NumberOfTerms: 45
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_930378949:
+- Unnamed: 0: 98185
+- Action: Created
+- org:resource: User_3
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1179359321
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:24:30.081000+00:00
+- case:concept:name: Offer_1179359321
+- case:MonthlyCost: 175.0
+- case:Selected: True
+- case:ApplicationID: Application_930378949
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 851
+- case:OfferedAmount: 17500.0
+- case:NumberOfTerms: 127
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1665334644:
+- Unnamed: 0: 98190
+- Action: Created
+- org:resource: User_35
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_964392502
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:28:26.704000+00:00
+- case:concept:name: Offer_964392502
+- case:MonthlyCost: 905.33
+- case:Selected: False
+- case:ApplicationID: Application_1665334644
+- case:FirstWithdrawalAmount: 40000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 40000.0
+- case:NumberOfTerms: 48
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_2068032817:
+- Unnamed: 0: 98195
+- Action: Created
+- org:resource: User_60
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1895279268
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:32:21.888000+00:00
+- case:concept:name: Offer_1895279268
+- case:MonthlyCost: 154.11
+- case:Selected: True
+- case:ApplicationID: Application_2068032817
+- case:FirstWithdrawalAmount: 15000.0
+- case:CreditScore: 1004
+- case:OfferedAmount: 15000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1368535752:
+- Unnamed: 0: 98205
+- Action: Created
+- org:resource: User_10
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_2126301883
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:38:13.143000+00:00
+- case:concept:name: Offer_2126301883
+- case:MonthlyCost: 78.82
+- case:Selected: True
+- case:ApplicationID: Application_1368535752
+- case:FirstWithdrawalAmount: 7000.0
+- case:CreditScore: 979
+- case:OfferedAmount: 7000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_373906261:
+- Unnamed: 0: 98210
+- Action: Created
+- org:resource: User_49
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1397540844
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:38:40.950000+00:00
+- case:concept:name: Offer_1397540844
+- case:MonthlyCost: 150.0
+- case:Selected: True
+- case:ApplicationID: Application_373906261
+- case:FirstWithdrawalAmount: 1000.0
+- case:CreditScore: 1013
+- case:OfferedAmount: 10000.0
+- case:NumberOfTerms: 80
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1983554609:
+- Unnamed: 0: 98215
+- Action: Created
+- org:resource: User_53
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1536605425
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:41:53.933000+00:00
+- case:concept:name: Offer_1536605425
+- case:MonthlyCost: 120.36
+- case:Selected: False
+- case:ApplicationID: Application_1983554609
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 47
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_910470491:
+- Unnamed: 0: 98219
+- Action: Created
+- org:resource: User_3
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_2029503808
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:45:56.092000+00:00
+- case:concept:name: Offer_2029503808
+- case:MonthlyCost: 116.87
+- case:Selected: True
+- case:ApplicationID: Application_910470491
+- case:FirstWithdrawalAmount: 6000.0
+- case:CreditScore: 1032
+- case:OfferedAmount: 6000.0
+- case:NumberOfTerms: 60
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_748770747:
+- Unnamed: 0: 98224
+- Action: Created
+- org:resource: User_49
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1190588370
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:47:40.040000+00:00
+- case:concept:name: Offer_1190588370
+- case:MonthlyCost: 184.94
+- case:Selected: True
+- case:ApplicationID: Application_748770747
+- case:FirstWithdrawalAmount: 18000.0
+- case:CreditScore: 931
+- case:OfferedAmount: 18000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_897255991:
+- Unnamed: 0: 98233
+- Action: Created
+- org:resource: User_10
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_812284346
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:48:37.645000+00:00
+- case:concept:name: Offer_812284346
+- case:MonthlyCost: 323.39
+- case:Selected: True
+- case:ApplicationID: Application_897255991
+- case:FirstWithdrawalAmount: 347.0
+- case:CreditScore: 882
+- case:OfferedAmount: 25000.0
+- case:NumberOfTerms: 90
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_948877864:
+- Unnamed: 0: 98238
+- Action: Created
+- org:resource: User_3
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_462711790
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:55:08.537000+00:00
+- case:concept:name: Offer_462711790
+- case:MonthlyCost: 67.56
+- case:Selected: False
+- case:ApplicationID: Application_948877864
+- case:FirstWithdrawalAmount: 4411.0
+- case:CreditScore: 0
+- case:OfferedAmount: 6000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_627871717:
+- Unnamed: 0: 98247
+- Action: Created
+- org:resource: User_46
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_107512078
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:59:53.384000+00:00
+- case:concept:name: Offer_107512078
+- case:MonthlyCost: 651.02
+- case:Selected: True
+- case:ApplicationID: Application_627871717
+- case:FirstWithdrawalAmount: 7971.25
+- case:CreditScore: 846
+- case:OfferedAmount: 60000.0
+- case:NumberOfTerms: 111
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1361973250:
+- Unnamed: 0: 98252
+- Action: Created
+- org:resource: User_35
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_415105037
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 14:59:58.080000+00:00
+- case:concept:name: Offer_415105037
+- case:MonthlyCost: 306.85
+- case:Selected: True
+- case:ApplicationID: Application_1361973250
+- case:FirstWithdrawalAmount: 18000.0
+- case:CreditScore: 801
+- case:OfferedAmount: 18000.0
+- case:NumberOfTerms: 66
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_2131487871:
+- Unnamed: 0: 98257
+- Action: Created
+- org:resource: User_10
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1177526615
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 15:02:35.686000+00:00
+- case:concept:name: Offer_1177526615
+- case:MonthlyCost: 254.56
+- case:Selected: False
+- case:ApplicationID: Application_2131487871
+- case:FirstWithdrawalAmount: 25000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 25000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_690530126:
+- Unnamed: 0: 98261
+- Action: Created
+- org:resource: User_60
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_2107692501
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 15:09:55.846000+00:00
+- case:concept:name: Offer_2107692501
+- case:MonthlyCost: 495.47
+- case:Selected: True
+- case:ApplicationID: Application_690530126
+- case:FirstWithdrawalAmount: 173.0
+- case:CreditScore: 851
+- case:OfferedAmount: 18000.0
+- case:NumberOfTerms: 39
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_260872741:
+- Unnamed: 0: 98266
+- Action: Created
+- org:resource: User_53
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1927519045
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 15:11:16.396000+00:00
+- case:concept:name: Offer_1927519045
+- case:MonthlyCost: 251.0
+- case:Selected: False
+- case:ApplicationID: Application_260872741
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 15000.0
+- case:NumberOfTerms: 69
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1213104145:
+- Unnamed: 0: 98271
+- Action: Created
+- org:resource: User_3
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1678200851
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 15:31:18.015000+00:00
+- case:concept:name: Offer_1678200851
+- case:MonthlyCost: 200.0
+- case:Selected: True
+- case:ApplicationID: Application_1213104145
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 889
+- case:OfferedAmount: 8000.0
+- case:NumberOfTerms: 45
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_399187920:
+- Unnamed: 0: 98276
+- Action: Created
+- org:resource: User_35
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1496875188
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 16:06:13.381000+00:00
+- case:concept:name: Offer_1496875188
+- case:MonthlyCost: 750.0
+- case:Selected: False
+- case:ApplicationID: Application_399187920
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 75000.0
+- case:NumberOfTerms: 126
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1056924645:
+- Unnamed: 0: 98281
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_848233677
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 16:10:56.236000+00:00
+- case:concept:name: Offer_848233677
+- case:MonthlyCost: 298.2
+- case:Selected: False
+- case:ApplicationID: Application_1056924645
+- case:FirstWithdrawalAmount: 12956.0
+- case:CreditScore: 0
+- case:OfferedAmount: 20700.0
+- case:NumberOfTerms: 80
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1861352527:
+- Unnamed: 0: 98290
+- Action: Created
+- org:resource: User_3
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1497112908
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 16:32:53.823000+00:00
+- case:concept:name: Offer_1497112908
+- case:MonthlyCost: 154.15
+- case:Selected: False
+- case:ApplicationID: Application_1861352527
+- case:FirstWithdrawalAmount: 10000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 10000.0
+- case:NumberOfTerms: 76
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_801957623:
+- Unnamed: 0: 98294
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1182368627
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 16:37:32.509000+00:00
+- case:concept:name: Offer_1182368627
+- case:MonthlyCost: 425.0
+- case:Selected: False
+- case:ApplicationID: Application_801957623
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 40800.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_453692151:
+- Unnamed: 0: 98307
+- Action: Created
+- org:resource: User_53
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1532693790
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 17:09:28.112000+00:00
+- case:concept:name: Offer_1532693790
+- case:MonthlyCost: 295.29
+- case:Selected: False
+- case:ApplicationID: Application_453692151
+- case:FirstWithdrawalAmount: 29000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 29000.0
+- case:NumberOfTerms: 120
+- case:Accepted: False
+- OfferID: nan
+
+
+
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1411816386:
+- Unnamed: 0: 98337
+- Action: Created
+- org:resource: User_26
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_532631832
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 17:59:43.884000+00:00
+- case:concept:name: Offer_532631832
+- case:MonthlyCost: 207.99
+- case:Selected: True
+- case:ApplicationID: Application_1411816386
+- case:FirstWithdrawalAmount: 11000.0
+- case:CreditScore: 935
+- case:OfferedAmount: 11000.0
+- case:NumberOfTerms: 60
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_783999795:
+- Unnamed: 0: 98342
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_958263780
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 18:01:37.047000+00:00
+- case:concept:name: Offer_958263780
+- case:MonthlyCost: 250.0
+- case:Selected: True
+- case:ApplicationID: Application_783999795
+- case:FirstWithdrawalAmount: 2500.0
+- case:CreditScore: 840
+- case:OfferedAmount: 10000.0
+- case:NumberOfTerms: 45
+- case:Accepted: False
+- OfferID: nan
+
+
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1926279546:
+- Unnamed: 0: 98360
+- Action: Created
+- org:resource: User_3
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_24965485
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 18:11:22.497000+00:00
+- case:concept:name: Offer_24965485
+- case:MonthlyCost: 198.53
+- case:Selected: True
+- case:ApplicationID: Application_1926279546
+- case:FirstWithdrawalAmount: 8000.0
+- case:CreditScore: 877
+- case:OfferedAmount: 10500.0
+- case:NumberOfTerms: 60
+- case:Accepted: True
+- OfferID: nan
+
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1724977442:
+- Unnamed: 0: 98377
+- Action: Created
+- org:resource: User_3
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1424244594
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-15 18:35:35.473000+00:00
+- case:concept:name: Offer_1424244594
+- case:MonthlyCost: 254.56
+- case:Selected: True
+- case:ApplicationID: Application_1724977442
+- case:FirstWithdrawalAmount: 24861.27
+- case:CreditScore: 798
+- case:OfferedAmount: 25000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+
+
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_688791477:
+- Unnamed: 0: 98400
+- Action: Created
+- org:resource: User_28
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_601696631
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 08:23:08.438000+00:00
+- case:concept:name: Offer_601696631
+- case:MonthlyCost: 199.14
+- case:Selected: True
+- case:ApplicationID: Application_688791477
+- case:FirstWithdrawalAmount: 935.0
+- case:CreditScore: 961
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 27
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1754860039:
+- Unnamed: 0: 98405
+- Action: Created
+- org:resource: User_35
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1928741306
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 08:24:26.985000+00:00
+- case:concept:name: Offer_1928741306
+- case:MonthlyCost: 296.93
+- case:Selected: True
+- case:ApplicationID: Application_1754860039
+- case:FirstWithdrawalAmount: 7150.0
+- case:CreditScore: 729
+- case:OfferedAmount: 16000.0
+- case:NumberOfTerms: 60
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_973884952:
+- Unnamed: 0: 98410
+- Action: Created
+- org:resource: User_37
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_963432501
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 08:28:51.596000+00:00
+- case:concept:name: Offer_963432501
+- case:MonthlyCost: 148.07
+- case:Selected: True
+- case:ApplicationID: Application_973884952
+- case:FirstWithdrawalAmount: 3851.75
+- case:CreditScore: 764
+- case:OfferedAmount: 13000.0
+- case:NumberOfTerms: 110
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1029247764:
+- Unnamed: 0: 98415
+- Action: Created
+- org:resource: User_17
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_267924905
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 08:31:25.076000+00:00
+- case:concept:name: Offer_267924905
+- case:MonthlyCost: 64.43
+- case:Selected: True
+- case:ApplicationID: Application_1029247764
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 100
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_643423512:
+- Unnamed: 0: 98420
+- Action: Created
+- org:resource: User_46
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_26764083
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 08:38:16.046000+00:00
+- case:concept:name: Offer_26764083
+- case:MonthlyCost: 450.0
+- case:Selected: True
+- case:ApplicationID: Application_643423512
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 23300.0
+- case:NumberOfTerms: 58
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1388483180:
+- Unnamed: 0: 98425
+- Action: Created
+- org:resource: User_46
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_384707149
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 08:52:12.254000+00:00
+- case:concept:name: Offer_384707149
+- case:MonthlyCost: 305.47
+- case:Selected: True
+- case:ApplicationID: Application_1388483180
+- case:FirstWithdrawalAmount: 30000.0
+- case:CreditScore: 958
+- case:OfferedAmount: 30000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1337760725:
+- Unnamed: 0: 98430
+- Action: Created
+- org:resource: User_39
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_475576562
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 08:54:02.604000+00:00
+- case:concept:name: Offer_475576562
+- case:MonthlyCost: 380.0
+- case:Selected: True
+- case:ApplicationID: Application_1337760725
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 38000.0
+- case:NumberOfTerms: 126
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_879057120:
+- Unnamed: 0: 98435
+- Action: Created
+- org:resource: User_37
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_825242121
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 08:57:54.601000+00:00
+- case:concept:name: Offer_825242121
+- case:MonthlyCost: 222.31
+- case:Selected: False
+- case:ApplicationID: Application_879057120
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 24
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1202205724:
+- Unnamed: 0: 98439
+- Action: Created
+- org:resource: User_63
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_2034579335
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 08:59:13.831000+00:00
+- case:concept:name: Offer_2034579335
+- case:MonthlyCost: 100.25
+- case:Selected: True
+- case:ApplicationID: Application_1202205724
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 796
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 58
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_621867207:
+- Unnamed: 0: 98444
+- Action: Created
+- org:resource: User_35
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1103506975
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:01:32.999000+00:00
+- case:concept:name: Offer_1103506975
+- case:MonthlyCost: 97.4
+- case:Selected: False
+- case:ApplicationID: Application_621867207
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 60
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1839855484:
+- Unnamed: 0: 98448
+- Action: Created
+- org:resource: User_86
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1816722518
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:06:55.439000+00:00
+- case:concept:name: Offer_1816722518
+- case:MonthlyCost: 356.38
+- case:Selected: False
+- case:ApplicationID: Application_1839855484
+- case:FirstWithdrawalAmount: 35000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 35000.0
+- case:NumberOfTerms: 120
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_86505635:
+- Unnamed: 0: 98456
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1670822065
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:12:24.815000+00:00
+- case:concept:name: Offer_1670822065
+- case:MonthlyCost: 177.22
+- case:Selected: False
+- case:ApplicationID: Application_86505635
+- case:FirstWithdrawalAmount: 7500.0
+- case:CreditScore: 0
+- case:OfferedAmount: 7500.0
+- case:NumberOfTerms: 48
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1033039379:
+- Unnamed: 0: 98460
+- Action: Created
+- org:resource: User_39
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1321269949
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:13:11.733000+00:00
+- case:concept:name: Offer_1321269949
+- case:MonthlyCost: 200.95
+- case:Selected: True
+- case:ApplicationID: Application_1033039379
+- case:FirstWithdrawalAmount: 10000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 10000.0
+- case:NumberOfTerms: 56
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1715317954:
+- Unnamed: 0: 98465
+- Action: Created
+- org:resource: User_63
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1550713693
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:16:18.992000+00:00
+- case:concept:name: Offer_1550713693
+- case:MonthlyCost: 254.56
+- case:Selected: True
+- case:ApplicationID: Application_1715317954
+- case:FirstWithdrawalAmount: 9800.0
+- case:CreditScore: 964
+- case:OfferedAmount: 25000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_810980987:
+- Unnamed: 0: 98470
+- Action: Created
+- org:resource: User_37
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1765587240
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:16:57.296000+00:00
+- case:concept:name: Offer_1765587240
+- case:MonthlyCost: 533.95
+- case:Selected: False
+- case:ApplicationID: Application_810980987
+- case:FirstWithdrawalAmount: 18000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 18000.0
+- case:NumberOfTerms: 36
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1842464968:
+- Unnamed: 0: 98474
+- Action: Created
+- org:resource: User_46
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1456799055
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:17:12.821000+00:00
+- case:concept:name: Offer_1456799055
+- case:MonthlyCost: 67.56
+- case:Selected: True
+- case:ApplicationID: Application_1842464968
+- case:FirstWithdrawalAmount: 374.81
+- case:CreditScore: 841
+- case:OfferedAmount: 6000.0
+- case:NumberOfTerms: 120
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_426074382:
+- Unnamed: 0: 98479
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1100002899
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:18:12.536000+00:00
+- case:concept:name: Offer_1100002899
+- case:MonthlyCost: 291.87
+- case:Selected: False
+- case:ApplicationID: Application_426074382
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 18
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_833766044:
+- Unnamed: 0: 98483
+- Action: Created
+- org:resource: User_28
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1817544125
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:23:00.201000+00:00
+- case:concept:name: Offer_1817544125
+- case:MonthlyCost: 250.0
+- case:Selected: True
+- case:ApplicationID: Application_833766044
+- case:FirstWithdrawalAmount: 1500.0
+- case:CreditScore: 916
+- case:OfferedAmount: 15000.0
+- case:NumberOfTerms: 69
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1023996114:
+- Unnamed: 0: 98488
+- Action: Created
+- org:resource: User_86
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1535285772
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:23:24.968000+00:00
+- case:concept:name: Offer_1535285772
+- case:MonthlyCost: 350.0
+- case:Selected: True
+- case:ApplicationID: Application_1023996114
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 25000.0
+- case:NumberOfTerms: 84
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_162446818:
+- Unnamed: 0: 98493
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_595547923
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:24:13.460000+00:00
+- case:concept:name: Offer_595547923
+- case:MonthlyCost: 203.72
+- case:Selected: True
+- case:ApplicationID: Application_162446818
+- case:FirstWithdrawalAmount: 7000.0
+- case:CreditScore: 938
+- case:OfferedAmount: 7000.0
+- case:NumberOfTerms: 38
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_475622826:
+- Unnamed: 0: 98506
+- Action: Created
+- org:resource: User_17
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_744405020
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:30:39.801000+00:00
+- case:concept:name: Offer_744405020
+- case:MonthlyCost: 100.0
+- case:Selected: False
+- case:ApplicationID: Application_475622826
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 58
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1528728571:
+- Unnamed: 0: 98510
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_22186029
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:30:56.241000+00:00
+- case:concept:name: Offer_22186029
+- case:MonthlyCost: 400.0
+- case:Selected: False
+- case:ApplicationID: Application_1528728571
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 20000.0
+- case:NumberOfTerms: 56
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_791702299:
+- Unnamed: 0: 98514
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_843933393
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:39:56.421000+00:00
+- case:concept:name: Offer_843933393
+- case:MonthlyCost: 200.0
+- case:Selected: True
+- case:ApplicationID: Application_791702299
+- case:FirstWithdrawalAmount: 4000.0
+- case:CreditScore: 835
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 27
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1626098440:
+- Unnamed: 0: 98519
+- Action: Created
+- org:resource: User_37
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1547344747
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:40:52.296000+00:00
+- case:concept:name: Offer_1547344747
+- case:MonthlyCost: 886.62
+- case:Selected: True
+- case:ApplicationID: Application_1626098440
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 48000.0
+- case:NumberOfTerms: 60
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1395703893:
+- Unnamed: 0: 98524
+- Action: Created
+- org:resource: User_35
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_211744292
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:40:52.814000+00:00
+- case:concept:name: Offer_211744292
+- case:MonthlyCost: 700.0
+- case:Selected: False
+- case:ApplicationID: Application_1395703893
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 35000.0
+- case:NumberOfTerms: 56
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1201650771:
+- Unnamed: 0: 98533
+- Action: Created
+- org:resource: User_39
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1096522035
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:45:47.793000+00:00
+- case:concept:name: Offer_1096522035
+- case:MonthlyCost: 266.77
+- case:Selected: False
+- case:ApplicationID: Application_1201650771
+- case:FirstWithdrawalAmount: 2500.0
+- case:CreditScore: 0
+- case:OfferedAmount: 6000.0
+- case:NumberOfTerms: 24
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_194637064:
+- Unnamed: 0: 98537
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1309708894
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:47:11.560000+00:00
+- case:concept:name: Offer_1309708894
+- case:MonthlyCost: 189.08
+- case:Selected: False
+- case:ApplicationID: Application_194637064
+- case:FirstWithdrawalAmount: 10000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 10000.0
+- case:NumberOfTerms: 60
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1411478908:
+- Unnamed: 0: 98546
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_172127350
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:51:44.701000+00:00
+- case:concept:name: Offer_172127350
+- case:MonthlyCost: 50.0
+- case:Selected: True
+- case:ApplicationID: Application_1411478908
+- case:FirstWithdrawalAmount: 3000.0
+- case:CreditScore: 949
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 138
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1112022949:
+- Unnamed: 0: 98556
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_618548477
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:56:45.856000+00:00
+- case:concept:name: Offer_618548477
+- case:MonthlyCost: 200.0
+- case:Selected: True
+- case:ApplicationID: Application_1112022949
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 20000.0
+- case:NumberOfTerms: 127
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_157112322:
+- Unnamed: 0: 98561
+- Action: Created
+- org:resource: User_63
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_224359460
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:58:16.126000+00:00
+- case:concept:name: Offer_224359460
+- case:MonthlyCost: 152.82
+- case:Selected: True
+- case:ApplicationID: Application_157112322
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 997
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 36
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_736709793:
+- Unnamed: 0: 98566
+- Action: Created
+- org:resource: User_86
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_839467080
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 09:59:22.115000+00:00
+- case:concept:name: Offer_839467080
+- case:MonthlyCost: 298.85
+- case:Selected: False
+- case:ApplicationID: Application_736709793
+- case:FirstWithdrawalAmount: 18000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 18000.0
+- case:NumberOfTerms: 68
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_81830869:
+- Unnamed: 0: 98570
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1028876922
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:01:22.035000+00:00
+- case:concept:name: Offer_1028876922
+- case:MonthlyCost: 400.0
+- case:Selected: True
+- case:ApplicationID: Application_81830869
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 30000.0
+- case:NumberOfTerms: 89
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1414403553:
+- Unnamed: 0: 98575
+- Action: Created
+- org:resource: User_28
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_119973382
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:14:57.065000+00:00
+- case:concept:name: Offer_119973382
+- case:MonthlyCost: 125.65
+- case:Selected: True
+- case:ApplicationID: Application_1414403553
+- case:FirstWithdrawalAmount: 7600.0
+- case:CreditScore: 760
+- case:OfferedAmount: 7600.0
+- case:NumberOfTerms: 73
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_442783245:
+- Unnamed: 0: 98580
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_309514997
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:15:42.911000+00:00
+- case:concept:name: Offer_309514997
+- case:MonthlyCost: 230.66
+- case:Selected: False
+- case:ApplicationID: Application_442783245
+- case:FirstWithdrawalAmount: 10000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 10000.0
+- case:NumberOfTerms: 48
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1362568001:
+- Unnamed: 0: 98584
+- Action: Created
+- org:resource: User_17
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1530311346
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:16:51.303000+00:00
+- case:concept:name: Offer_1530311346
+- case:MonthlyCost: 300.0
+- case:Selected: False
+- case:ApplicationID: Application_1362568001
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 13000.0
+- case:NumberOfTerms: 49
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_2017026508:
+- Unnamed: 0: 98588
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1922071243
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:18:45.867000+00:00
+- case:concept:name: Offer_1922071243
+- case:MonthlyCost: 175.0
+- case:Selected: True
+- case:ApplicationID: Application_2017026508
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 913
+- case:OfferedAmount: 7500.0
+- case:NumberOfTerms: 49
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1461793010:
+- Unnamed: 0: 98593
+- Action: Created
+- org:resource: User_46
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_692615224
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:19:18.103000+00:00
+- case:concept:name: Offer_692615224
+- case:MonthlyCost: 133.0
+- case:Selected: True
+- case:ApplicationID: Application_1461793010
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 794
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 42
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1583209065:
+- Unnamed: 0: 98602
+- Action: Created
+- org:resource: User_39
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_27353804
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:22:12.051000+00:00
+- case:concept:name: Offer_27353804
+- case:MonthlyCost: 650.0
+- case:Selected: True
+- case:ApplicationID: Application_1583209065
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 55000.0
+- case:NumberOfTerms: 103
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1598276616:
+- Unnamed: 0: 98607
+- Action: Created
+- org:resource: User_86
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_376941348
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:22:45.995000+00:00
+- case:concept:name: Offer_376941348
+- case:MonthlyCost: 325.0
+- case:Selected: True
+- case:ApplicationID: Application_1598276616
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 22000.0
+- case:NumberOfTerms: 79
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1915763503:
+- Unnamed: 0: 98612
+- Action: Created
+- org:resource: User_63
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1203746982
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:25:16.632000+00:00
+- case:concept:name: Offer_1203746982
+- case:MonthlyCost: 321.82
+- case:Selected: True
+- case:ApplicationID: Application_1915763503
+- case:FirstWithdrawalAmount: 11000.0
+- case:CreditScore: 926
+- case:OfferedAmount: 11000.0
+- case:NumberOfTerms: 37
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_2012290274:
+- Unnamed: 0: 98617
+- Action: Created
+- org:resource: User_17
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1528100118
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:30:09.767000+00:00
+- case:concept:name: Offer_1528100118
+- case:MonthlyCost: 249.58
+- case:Selected: False
+- case:ApplicationID: Application_2012290274
+- case:FirstWithdrawalAmount: 10000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 10000.0
+- case:NumberOfTerms: 44
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_507645472:
+- Unnamed: 0: 98621
+- Action: Created
+- org:resource: User_28
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1471290263
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:31:25.070000+00:00
+- case:concept:name: Offer_1471290263
+- case:MonthlyCost: 203.72
+- case:Selected: True
+- case:ApplicationID: Application_507645472
+- case:FirstWithdrawalAmount: 902.0
+- case:CreditScore: 1018
+- case:OfferedAmount: 7000.0
+- case:NumberOfTerms: 38
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_2002877311:
+- Unnamed: 0: 98626
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1924040571
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:45:29.908000+00:00
+- case:concept:name: Offer_1924040571
+- case:MonthlyCost: 431.76
+- case:Selected: True
+- case:ApplicationID: Application_2002877311
+- case:FirstWithdrawalAmount: 5426.19
+- case:CreditScore: 0
+- case:OfferedAmount: 27500.0
+- case:NumberOfTerms: 72
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_70363401:
+- Unnamed: 0: 98631
+- Action: Created
+- org:resource: User_18
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_1886326405
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:53:06.411000+00:00
+- case:concept:name: Offer_1886326405
+- case:MonthlyCost: 474.62
+- case:Selected: True
+- case:ApplicationID: Application_70363401
+- case:FirstWithdrawalAmount: 1000.0
+- case:CreditScore: 906
+- case:OfferedAmount: 16000.0
+- case:NumberOfTerms: 36
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_2020736720:
+- Unnamed: 0: 98641
+- Action: Created
+- org:resource: User_63
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_192633209
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 10:56:33.208000+00:00
+- case:concept:name: Offer_192633209
+- case:MonthlyCost: 100.0
+- case:Selected: True
+- case:ApplicationID: Application_2020736720
+- case:FirstWithdrawalAmount: 5000.0
+- case:CreditScore: 0
+- case:OfferedAmount: 5000.0
+- case:NumberOfTerms: 58
+- case:Accepted: False
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
+==================================================
+Here is the first event of application Application_1683456298:
+- Unnamed: 0: 98646
+- Action: Created
+- org:resource: User_46
+- concept:name: O_Create Offer
+- EventOrigin: Offer
+- EventID: Offer_382299749
+- lifecycle:transition: complete
+- time:timestamp: 2016-07-16 11:20:21.688000+00:00
+- case:concept:name: Offer_382299749
+- case:MonthlyCost: 300.0
+- case:Selected: False
+- case:ApplicationID: Application_1683456298
+- case:FirstWithdrawalAmount: 0.0
+- case:CreditScore: 0
+- case:OfferedAmount: 15000.0
+- case:NumberOfTerms: 56
+- case:Accepted: True
+- OfferID: nan
+
+List all remaining events of this application in chronological order. For each remaining event, include all available attributes (columns and values).
